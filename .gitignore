@@ -1,0 +1,4 @@
+**/.settings/*.prefs
+jersey-2-json-client-example/.project
+jersey-2-json-client-example/.classpath
+**/target
