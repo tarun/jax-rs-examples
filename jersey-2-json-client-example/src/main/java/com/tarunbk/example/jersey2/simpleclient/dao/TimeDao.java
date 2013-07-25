@@ -11,16 +11,18 @@ import com.tarunbk.example.jersey2.simpleclient.model.Time;
 
 public class TimeDao {
 
+    private static final String TIME_ENDPOINT = "http://stormy-winter-5310.herokuapp.com/time.json";
+
     public Time getRemoteTime() {
         Client client = ClientBuilder.newClient();
-        WebTarget target = client.target("http://json-time.appspot.com/time.json");
+        WebTarget target = client.target(TIME_ENDPOINT);
         Response response = target.request(MediaType.APPLICATION_JSON_TYPE).get();
         if (response != null && Status.Family.SUCCESSFUL == response.getStatusInfo().getFamily()) {
-            // System.out.println("The response string was : " + response.readEntity(String.class));
             Time time = response.readEntity(Time.class);
-            // time.setDatetime(responseEntityText);
             return time;
         } else {
+            System.err.println("There was an error fetching service response");
+            System.err.println(response);
             return null;
         }
     }

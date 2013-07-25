@@ -4,13 +4,13 @@ public class Time {
 
     private String datetime;
 
-    private String tz;
-
     private int hour;
 
     private int minute;
 
     private int second;
+
+    private int timezoneOffset;
 
     private String error;
 
@@ -20,14 +20,6 @@ public class Time {
 
     public void setDatetime(String datetime) {
         this.datetime = datetime;
-    }
-
-    public String getTz() {
-        return tz;
-    }
-
-    public void setTz(String tz) {
-        this.tz = tz;
     }
 
     public int getHour() {
@@ -52,6 +44,14 @@ public class Time {
 
     public void setSecond(int second) {
         this.second = second;
+    }
+
+    public int getTimezoneOffset() {
+        return timezoneOffset;
+    }
+
+    public void setTimezoneOffset(int timezoneOffset) {
+        this.timezoneOffset = timezoneOffset;
     }
 
     public String getError() {
