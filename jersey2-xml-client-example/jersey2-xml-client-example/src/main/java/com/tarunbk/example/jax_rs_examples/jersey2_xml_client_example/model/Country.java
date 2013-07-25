@@ -6,7 +6,7 @@ import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlID;
 import javax.xml.bind.annotation.XmlType;
 
-@XmlType(name = "self_governing", namespace = "http://purl.org/dc/elements/1.1")
+@XmlType(name = "self_governing")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Country {
 

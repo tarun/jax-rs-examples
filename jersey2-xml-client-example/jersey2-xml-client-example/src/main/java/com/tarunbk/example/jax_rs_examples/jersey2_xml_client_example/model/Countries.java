@@ -16,6 +16,7 @@ public class Countries {
     @XmlElement(name = "Header")
     private Header header;
 
+    @XmlElement(name = "self_governing", type = Country.class)
     private List<Country> countries = new ArrayList<Country>();
 
     public Header getHeader() {
