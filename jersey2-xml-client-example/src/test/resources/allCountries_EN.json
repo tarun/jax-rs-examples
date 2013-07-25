@@ -1,0 +1,3590 @@
+
+
+{
+
+   "Header": {
+
+      "ID": "All countries",
+
+      "source": "FAO Geopolitical Ontology web services",
+
+      "SourceIdentifier": "http://aims.fao.org/aos/geopolitical.owl",
+
+      "SourceModified": "2011-01-18",
+
+      "extractedDate": "2013-07-25",
+
+      "description": "Individual data items and related source information are detailed in http://aims.fao.org/aos/geopolitical.owl. For additional information consult www.fao.org/countryprofiles/"
+
+   },
+
+   "self_governing": [
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#United_Republic_of_Tanzania__the",
+
+         "codeISO3": "TZA",
+
+         "codeISO2": "TZ",
+
+         "nameOfficialEN": "the United Republic of Tanzania",
+
+         "nameShortEN": "the United Republic of Tanzania",
+
+         "nameListEN": "United Republic of Tanzania",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Cuba",
+
+         "codeISO3": "CUB",
+
+         "codeISO2": "CU",
+
+         "nameOfficialEN": "the Republic of Cuba",
+
+         "nameShortEN": "Cuba",
+
+         "nameListEN": "Cuba",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Uzbekistan",
+
+         "codeISO3": "UZB",
+
+         "codeISO2": "UZ",
+
+         "nameOfficialEN": "the Republic of Uzbekistan",
+
+         "nameShortEN": "Uzbekistan",
+
+         "nameListEN": "Uzbekistan",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Philippines__the",
+
+         "codeISO3": "PHL",
+
+         "codeISO2": "PH",
+
+         "nameOfficialEN": "the Republic of the Philippines",
+
+         "nameShortEN": "the Philippines",
+
+         "nameListEN": "Philippines",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Tuvalu",
+
+         "codeISO3": "TUV",
+
+         "codeISO2": "TV",
+
+         "nameOfficialEN": "Tuvalu",
+
+         "nameShortEN": "Tuvalu",
+
+         "nameListEN": "Tuvalu",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Belarus",
+
+         "codeISO3": "BLR",
+
+         "codeISO2": "BY",
+
+         "nameOfficialEN": "the Republic of Belarus",
+
+         "nameShortEN": "Belarus",
+
+         "nameListEN": "Belarus",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#United_States_of_America",
+
+         "codeISO3": "USA",
+
+         "codeISO2": "US",
+
+         "nameOfficialEN": "the United States of America",
+
+         "nameShortEN": "the United States of America",
+
+         "nameListEN": "United States of America",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Lithuania",
+
+         "codeISO3": "LTU",
+
+         "codeISO2": "LT",
+
+         "nameOfficialEN": "the Republic of Lithuania",
+
+         "nameShortEN": "Lithuania",
+
+         "nameListEN": "Lithuania",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Australia",
+
+         "codeISO3": "AUS",
+
+         "codeISO2": "AU",
+
+         "nameOfficialEN": "Australia",
+
+         "nameShortEN": "Australia",
+
+         "nameListEN": "Australia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Angola",
+
+         "codeISO3": "AGO",
+
+         "codeISO2": "AO",
+
+         "nameOfficialEN": "the Republic of Angola",
+
+         "nameShortEN": "Angola",
+
+         "nameListEN": "Angola",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Belgium",
+
+         "codeISO3": "BEL",
+
+         "codeISO2": "BE",
+
+         "nameOfficialEN": "the Kingdom of Belgium",
+
+         "nameShortEN": "Belgium",
+
+         "nameListEN": "Belgium",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Equatorial_Guinea",
+
+         "codeISO3": "GNQ",
+
+         "codeISO2": "GQ",
+
+         "nameOfficialEN": "the Republic of Equatorial Guinea",
+
+         "nameShortEN": "Equatorial Guinea",
+
+         "nameListEN": "Equatorial Guinea",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Romania",
+
+         "codeISO3": "ROU",
+
+         "codeISO2": "RO",
+
+         "nameOfficialEN": "Romania",
+
+         "nameShortEN": "Romania",
+
+         "nameListEN": "Romania",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Spain",
+
+         "codeISO3": "ESP",
+
+         "codeISO2": "ES",
+
+         "nameOfficialEN": "the Kingdom of Spain",
+
+         "nameShortEN": "Spain",
+
+         "nameListEN": "Spain",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Chile",
+
+         "codeISO3": "CHL",
+
+         "codeISO2": "CL",
+
+         "nameOfficialEN": "the Republic of Chile",
+
+         "nameShortEN": "Chile",
+
+         "nameListEN": "Chile",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Benin",
+
+         "codeISO3": "BEN",
+
+         "codeISO2": "BJ",
+
+         "nameOfficialEN": "the Republic of Benin",
+
+         "nameShortEN": "Benin",
+
+         "nameListEN": "Benin",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Senegal",
+
+         "codeISO3": "SEN",
+
+         "codeISO2": "SN",
+
+         "nameOfficialEN": "the Republic of Senegal",
+
+         "nameShortEN": "Senegal",
+
+         "nameListEN": "Senegal",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Bolivia",
+
+         "codeISO3": "BOL",
+
+         "codeISO2": "BO",
+
+         "nameOfficialEN": "the Plurinational State of Bolivia",
+
+         "nameShortEN": "Bolivia (Plurinational State of)",
+
+         "nameListEN": "Bolivia (Plurinational State of)",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Finland",
+
+         "codeISO3": "FIN",
+
+         "codeISO2": "FI",
+
+         "nameOfficialEN": "the Republic of Finland",
+
+         "nameShortEN": "Finland",
+
+         "nameListEN": "Finland",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Nepal",
+
+         "codeISO3": "NPL",
+
+         "codeISO2": "NP",
+
+         "nameOfficialEN": "Federal Democratic Republic of Nepal",
+
+         "nameShortEN": "Nepal",
+
+         "nameListEN": "Nepal",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Mauritania",
+
+         "codeISO3": "MRT",
+
+         "codeISO2": "MR",
+
+         "nameOfficialEN": "the Islamic Republic of Mauritania",
+
+         "nameShortEN": "Mauritania",
+
+         "nameListEN": "Mauritania",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Burundi",
+
+         "codeISO3": "BDI",
+
+         "codeISO2": "BI",
+
+         "nameOfficialEN": "the Republic of Burundi",
+
+         "nameShortEN": "Burundi",
+
+         "nameListEN": "Burundi",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Albania",
+
+         "codeISO3": "ALB",
+
+         "codeISO2": "AL",
+
+         "nameOfficialEN": "the Republic of Albania",
+
+         "nameShortEN": "Albania",
+
+         "nameListEN": "Albania",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Maldives",
+
+         "codeISO3": "MDV",
+
+         "codeISO2": "MV",
+
+         "nameOfficialEN": "the Republic of Maldives",
+
+         "nameShortEN": "Maldives",
+
+         "nameListEN": "Maldives",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Malawi",
+
+         "codeISO3": "MWI",
+
+         "codeISO2": "MW",
+
+         "nameOfficialEN": "the Republic of Malawi",
+
+         "nameShortEN": "Malawi",
+
+         "nameListEN": "Malawi",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Mali",
+
+         "codeISO3": "MLI",
+
+         "codeISO2": "ML",
+
+         "nameOfficialEN": "the Republic of Mali",
+
+         "nameShortEN": "Mali",
+
+         "nameListEN": "Mali",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Belize",
+
+         "codeISO3": "BLZ",
+
+         "codeISO2": "BZ",
+
+         "nameOfficialEN": "Belize",
+
+         "nameShortEN": "Belize",
+
+         "nameListEN": "Belize",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#China",
+
+         "codeISO3": "CHN",
+
+         "codeISO2": "CN",
+
+         "nameOfficialEN": "the People's Republic of China",
+
+         "nameShortEN": "China",
+
+         "nameListEN": "China",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Niger_the",
+
+         "codeISO3": "NER",
+
+         "codeISO2": "NE",
+
+         "nameOfficialEN": "the Republic of the Niger",
+
+         "nameShortEN": "the Niger",
+
+         "nameListEN": "Niger",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Somalia",
+
+         "codeISO3": "SOM",
+
+         "codeISO2": "SO",
+
+         "nameOfficialEN": "the Somali Republic",
+
+         "nameShortEN": "Somalia",
+
+         "nameListEN": "Somalia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Guinea-Bissau",
+
+         "codeISO3": "GNB",
+
+         "codeISO2": "GW",
+
+         "nameOfficialEN": "the Republic of Guinea-Bissau",
+
+         "nameShortEN": "Guinea-Bissau",
+
+         "nameListEN": "Guinea-Bissau",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Cyprus",
+
+         "codeISO3": "CYP",
+
+         "codeISO2": "CY",
+
+         "nameOfficialEN": "the Republic of Cyprus",
+
+         "nameShortEN": "Cyprus",
+
+         "nameListEN": "Cyprus",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Saint_Kitts_and_Nevis",
+
+         "codeISO3": "KNA",
+
+         "codeISO2": "KN",
+
+         "nameOfficialEN": "Saint Kitts and Nevis",
+
+         "nameShortEN": "Saint Kitts and Nevis",
+
+         "nameListEN": "Saint Kitts and Nevis",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Ethiopia",
+
+         "codeISO3": "ETH",
+
+         "codeISO2": "ET",
+
+         "nameOfficialEN": "the Federal Democratic Republic of Ethiopia",
+
+         "nameShortEN": "Ethiopia",
+
+         "nameListEN": "Ethiopia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Lao_People_s_Democratic_Republic__the",
+
+         "codeISO3": "LAO",
+
+         "codeISO2": "LA",
+
+         "nameOfficialEN": "the Lao People's Democratic Republic",
+
+         "nameShortEN": "the Lao People's Democratic Republic",
+
+         "nameListEN": "Lao People's Democratic Republic",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Antigua_and_Barbuda",
+
+         "codeISO3": "ATG",
+
+         "codeISO2": "AG",
+
+         "nameOfficialEN": "Antigua and Barbuda",
+
+         "nameShortEN": "Antigua and Barbuda",
+
+         "nameListEN": "Antigua and Barbuda",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Mongolia",
+
+         "codeISO3": "MNG",
+
+         "codeISO2": "MN",
+
+         "nameOfficialEN": "Mongolia",
+
+         "nameShortEN": "Mongolia",
+
+         "nameListEN": "Mongolia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Swaziland",
+
+         "codeISO3": "SWZ",
+
+         "codeISO2": "SZ",
+
+         "nameOfficialEN": "the Kingdom of Swaziland",
+
+         "nameShortEN": "Swaziland",
+
+         "nameListEN": "Swaziland",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Iran_Islamic_Rep_of_",
+
+         "codeISO3": "IRN",
+
+         "codeISO2": "IR",
+
+         "nameOfficialEN": "the Islamic Republic of Iran",
+
+         "nameShortEN": "Iran (Islamic Republic of)",
+
+         "nameListEN": "Iran (Islamic Republic of)",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Samoa",
+
+         "codeISO3": "WSM",
+
+         "codeISO2": "WS",
+
+         "nameOfficialEN": "the Independent State of Samoa",
+
+         "nameShortEN": "Samoa",
+
+         "nameListEN": "Samoa",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Pakistan",
+
+         "codeISO3": "PAK",
+
+         "codeISO2": "PK",
+
+         "nameOfficialEN": "the Islamic Republic of Pakistan",
+
+         "nameShortEN": "Pakistan",
+
+         "nameListEN": "Pakistan",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Portugal",
+
+         "codeISO3": "PRT",
+
+         "codeISO2": "PT",
+
+         "nameOfficialEN": "the Portuguese Republic",
+
+         "nameShortEN": "Portugal",
+
+         "nameListEN": "Portugal",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Burkina_Faso",
+
+         "codeISO3": "BFA",
+
+         "codeISO2": "BF",
+
+         "nameOfficialEN": "Burkina Faso",
+
+         "nameShortEN": "Burkina Faso",
+
+         "nameListEN": "Burkina Faso",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Czech_Republic_the",
+
+         "codeISO3": "CZE",
+
+         "codeISO2": "CZ",
+
+         "nameOfficialEN": "the Czech Republic",
+
+         "nameShortEN": "the Czech Republic",
+
+         "nameListEN": "Czech Republic",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Netherlands_the",
+
+         "codeISO3": "NLD",
+
+         "codeISO2": "NL",
+
+         "nameOfficialEN": "the Kingdom of the Netherlands",
+
+         "nameShortEN": "the Netherlands",
+
+         "nameListEN": "Netherlands",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Guatemala",
+
+         "codeISO3": "GTM",
+
+         "codeISO2": "GT",
+
+         "nameOfficialEN": "the Republic of Guatemala",
+
+         "nameShortEN": "Guatemala",
+
+         "nameListEN": "Guatemala",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Slovenia",
+
+         "codeISO3": "SVN",
+
+         "codeISO2": "SI",
+
+         "nameOfficialEN": "the Republic of Slovenia",
+
+         "nameShortEN": "Slovenia",
+
+         "nameListEN": "Slovenia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Monaco",
+
+         "codeISO3": "MCO",
+
+         "codeISO2": "MC",
+
+         "nameOfficialEN": "the Principality of Monaco",
+
+         "nameShortEN": "Monaco",
+
+         "nameListEN": "Monaco",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Andorra",
+
+         "codeISO3": "AND",
+
+         "codeISO2": "AD",
+
+         "nameOfficialEN": "the Principality of Andorra",
+
+         "nameShortEN": "Andorra",
+
+         "nameListEN": "Andorra",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Canada",
+
+         "codeISO3": "CAN",
+
+         "codeISO2": "CA",
+
+         "nameOfficialEN": "Canada",
+
+         "nameShortEN": "Canada",
+
+         "nameListEN": "Canada",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#The_former_Yugoslav_Republic_of_Macedonia",
+
+         "codeISO3": "MKD",
+
+         "codeISO2": "MK",
+
+         "nameOfficialEN": "The former Yugoslav Republic of Macedonia",
+
+         "nameShortEN": "The former Yugoslav Republic of Macedonia",
+
+         "nameListEN": "The former Yugoslav Republic of Macedonia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Lebanon",
+
+         "codeISO3": "LBN",
+
+         "codeISO2": "LB",
+
+         "nameOfficialEN": "the Lebanese Republic",
+
+         "nameShortEN": "Lebanon",
+
+         "nameListEN": "Lebanon",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Sweden",
+
+         "codeISO3": "SWE",
+
+         "codeISO2": "SE",
+
+         "nameOfficialEN": "the Kingdom of Sweden",
+
+         "nameShortEN": "Sweden",
+
+         "nameListEN": "Sweden",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Iceland",
+
+         "codeISO3": "ISL",
+
+         "codeISO2": "IS",
+
+         "nameOfficialEN": "the Republic of Iceland",
+
+         "nameShortEN": "Iceland",
+
+         "nameListEN": "Iceland",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Republic_of_Korea__the",
+
+         "codeISO3": "KOR",
+
+         "codeISO2": "KR",
+
+         "nameOfficialEN": "the Republic of Korea",
+
+         "nameShortEN": "the Republic of Korea",
+
+         "nameListEN": "Republic of Korea",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Mozambique",
+
+         "codeISO3": "MOZ",
+
+         "codeISO2": "MZ",
+
+         "nameOfficialEN": "the Republic of Mozambique",
+
+         "nameShortEN": "Mozambique",
+
+         "nameListEN": "Mozambique",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Cook_Islands_the",
+
+         "codeISO3": "COK",
+
+         "codeISO2": "CK",
+
+         "nameOfficialEN": "the Cook Islands",
+
+         "nameShortEN": "the Cook Islands",
+
+         "nameListEN": "Cook Islands",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Argentina",
+
+         "codeISO3": "ARG",
+
+         "codeISO2": "AR",
+
+         "nameOfficialEN": "the Argentine Republic",
+
+         "nameShortEN": "Argentina",
+
+         "nameListEN": "Argentina",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Honduras",
+
+         "codeISO3": "HND",
+
+         "codeISO2": "HN",
+
+         "nameOfficialEN": "the Republic of Honduras",
+
+         "nameShortEN": "Honduras",
+
+         "nameListEN": "Honduras",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Cote_d_Ivoire",
+
+         "codeISO3": "CIV",
+
+         "codeISO2": "CI",
+
+         "nameOfficialEN": "the Republic of Côte d'Ivoire",
+
+         "nameShortEN": "Côte d'Ivoire",
+
+         "nameListEN": "Côte d'Ivoire",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Denmark",
+
+         "codeISO3": "DNK",
+
+         "codeISO2": "DK",
+
+         "nameOfficialEN": "the Kingdom of Denmark",
+
+         "nameShortEN": "Denmark",
+
+         "nameListEN": "Denmark",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Palau",
+
+         "codeISO3": "PLW",
+
+         "codeISO2": "PW",
+
+         "nameOfficialEN": "the Republic of Palau",
+
+         "nameShortEN": "Palau",
+
+         "nameListEN": "Palau",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Austria",
+
+         "codeISO3": "AUT",
+
+         "codeISO2": "AT",
+
+         "nameOfficialEN": "the Republic of Austria",
+
+         "nameShortEN": "Austria",
+
+         "nameListEN": "Austria",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Malta",
+
+         "codeISO3": "MLT",
+
+         "codeISO2": "MT",
+
+         "nameOfficialEN": "the Republic of Malta",
+
+         "nameShortEN": "Malta",
+
+         "nameListEN": "Malta",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Liechtenstein",
+
+         "codeISO3": "LIE",
+
+         "codeISO2": "LI",
+
+         "nameOfficialEN": "the Principality of Liechtenstein",
+
+         "nameShortEN": "Liechtenstein",
+
+         "nameListEN": "Liechtenstein",
+
+         "FAO_MEMBERS": []
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Kyrgyzstan",
+
+         "codeISO3": "KGZ",
+
+         "codeISO2": "KG",
+
+         "nameOfficialEN": "the Kyrgyz Republic",
+
+         "nameShortEN": "Kyrgyzstan",
+
+         "nameListEN": "Kyrgyzstan",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Kenya",
+
+         "codeISO3": "KEN",
+
+         "codeISO2": "KE",
+
+         "nameOfficialEN": "the Republic of Kenya",
+
+         "nameShortEN": "Kenya",
+
+         "nameListEN": "Kenya",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Malaysia",
+
+         "codeISO3": "MYS",
+
+         "codeISO2": "MY",
+
+         "nameOfficialEN": "Malaysia",
+
+         "nameShortEN": "Malaysia",
+
+         "nameListEN": "Malaysia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Mauritius",
+
+         "codeISO3": "MUS",
+
+         "codeISO2": "MU",
+
+         "nameOfficialEN": "the Republic of Mauritius",
+
+         "nameShortEN": "Mauritius",
+
+         "nameListEN": "Mauritius",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Ghana",
+
+         "codeISO3": "GHA",
+
+         "codeISO2": "GH",
+
+         "nameOfficialEN": "the Republic of Ghana",
+
+         "nameShortEN": "Ghana",
+
+         "nameListEN": "Ghana",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Liberia",
+
+         "codeISO3": "LBR",
+
+         "codeISO2": "LR",
+
+         "nameOfficialEN": "the Republic of Liberia",
+
+         "nameShortEN": "Liberia",
+
+         "nameListEN": "Liberia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Namibia",
+
+         "codeISO3": "NAM",
+
+         "codeISO2": "NA",
+
+         "nameOfficialEN": "the Republic of Namibia",
+
+         "nameShortEN": "Namibia",
+
+         "nameListEN": "Namibia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Trinidad_and_Tobago",
+
+         "codeISO3": "TTO",
+
+         "codeISO2": "TT",
+
+         "nameOfficialEN": "the Republic of Trinidad and Tobago",
+
+         "nameShortEN": "Trinidad and Tobago",
+
+         "nameListEN": "Trinidad and Tobago",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Bahamas_the",
+
+         "codeISO3": "BHS",
+
+         "codeISO2": "BS",
+
+         "nameOfficialEN": "the Commonwealth of the Bahamas",
+
+         "nameShortEN": "the Bahamas",
+
+         "nameListEN": "Bahamas",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Egypt",
+
+         "codeISO3": "EGY",
+
+         "codeISO2": "EG",
+
+         "nameOfficialEN": "the Arab Republic of Egypt",
+
+         "nameShortEN": "Egypt",
+
+         "nameListEN": "Egypt",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Cambodia",
+
+         "codeISO3": "KHM",
+
+         "codeISO2": "KH",
+
+         "nameOfficialEN": "the Kingdom of Cambodia",
+
+         "nameShortEN": "Cambodia",
+
+         "nameListEN": "Cambodia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#South_Sudan",
+
+         "codeISO3": "SSD",
+
+         "codeISO2": "SS",
+
+         "nameOfficialEN": "Republic of South Sudan",
+
+         "nameShortEN": "South Sudan",
+
+         "nameListEN": "South Sudan",
+
+         "FAO_MEMBERS": []
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Kiribati",
+
+         "codeISO3": "KIR",
+
+         "codeISO2": "KI",
+
+         "nameOfficialEN": "the Republic of Kiribati",
+
+         "nameShortEN": "Kiribati",
+
+         "nameListEN": "Kiribati",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Poland",
+
+         "codeISO3": "POL",
+
+         "codeISO2": "PL",
+
+         "nameOfficialEN": "the Republic of Poland",
+
+         "nameShortEN": "Poland",
+
+         "nameListEN": "Poland",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Qatar",
+
+         "codeISO3": "QAT",
+
+         "codeISO2": "QA",
+
+         "nameOfficialEN": "the State of Qatar",
+
+         "nameShortEN": "Qatar",
+
+         "nameListEN": "Qatar",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#El_Salvador",
+
+         "codeISO3": "SLV",
+
+         "codeISO2": "SV",
+
+         "nameOfficialEN": "the Republic of El Salvador",
+
+         "nameShortEN": "El Salvador",
+
+         "nameListEN": "El Salvador",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Iraq",
+
+         "codeISO3": "IRQ",
+
+         "codeISO2": "IQ",
+
+         "nameOfficialEN": "the Republic of Iraq",
+
+         "nameShortEN": "Iraq",
+
+         "nameListEN": "Iraq",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Madagascar",
+
+         "codeISO3": "MDG",
+
+         "codeISO2": "MG",
+
+         "nameOfficialEN": "the Republic of Madagascar",
+
+         "nameShortEN": "Madagascar",
+
+         "nameListEN": "Madagascar",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Lesotho",
+
+         "codeISO3": "LSO",
+
+         "codeISO2": "LS",
+
+         "nameOfficialEN": "the Kingdom of Lesotho",
+
+         "nameShortEN": "Lesotho",
+
+         "nameListEN": "Lesotho",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Suriname",
+
+         "codeISO3": "SUR",
+
+         "codeISO2": "SR",
+
+         "nameOfficialEN": "the Republic of Suriname",
+
+         "nameShortEN": "Suriname",
+
+         "nameListEN": "Suriname",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Ukraine",
+
+         "codeISO3": "UKR",
+
+         "codeISO2": "UA",
+
+         "nameOfficialEN": "Ukraine",
+
+         "nameShortEN": "Ukraine",
+
+         "nameListEN": "Ukraine",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Estonia",
+
+         "codeISO3": "EST",
+
+         "codeISO2": "EE",
+
+         "nameOfficialEN": "the Republic of Estonia",
+
+         "nameShortEN": "Estonia",
+
+         "nameListEN": "Estonia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Saint_Lucia",
+
+         "codeISO3": "LCA",
+
+         "codeISO2": "LC",
+
+         "nameOfficialEN": "Saint Lucia",
+
+         "nameShortEN": "Saint Lucia",
+
+         "nameListEN": "Saint Lucia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Thailand",
+
+         "codeISO3": "THA",
+
+         "codeISO2": "TH",
+
+         "nameOfficialEN": "the Kingdom of Thailand",
+
+         "nameShortEN": "Thailand",
+
+         "nameListEN": "Thailand",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Azerbaijan",
+
+         "codeISO3": "AZE",
+
+         "codeISO2": "AZ",
+
+         "nameOfficialEN": "the Republic of Azerbaijan",
+
+         "nameShortEN": "Azerbaijan",
+
+         "nameListEN": "Azerbaijan",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Cape_Verde",
+
+         "codeISO3": "CPV",
+
+         "codeISO2": "CV",
+
+         "nameOfficialEN": "the Republic of Cape Verde",
+
+         "nameShortEN": "Cape Verde",
+
+         "nameListEN": "Cape Verde",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Sri_Lanka",
+
+         "codeISO3": "LKA",
+
+         "codeISO2": "LK",
+
+         "nameOfficialEN": "the Democratic Socialist Republic of Sri Lanka",
+
+         "nameShortEN": "Sri Lanka",
+
+         "nameListEN": "Sri Lanka",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Gabon",
+
+         "codeISO3": "GAB",
+
+         "codeISO2": "GA",
+
+         "nameOfficialEN": "the Gabonese Republic",
+
+         "nameShortEN": "Gabon",
+
+         "nameListEN": "Gabon",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Timor-Leste",
+
+         "codeISO3": "TLS",
+
+         "codeISO2": "TL",
+
+         "nameOfficialEN": "the Democratic Republic of Timor-Leste",
+
+         "nameShortEN": "Timor-Leste",
+
+         "nameListEN": "Timor-Leste",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Costa_Rica",
+
+         "codeISO3": "CRI",
+
+         "codeISO2": "CR",
+
+         "nameOfficialEN": "the Republic of Costa Rica",
+
+         "nameShortEN": "Costa Rica",
+
+         "nameListEN": "Costa Rica",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Jordan",
+
+         "codeISO3": "JOR",
+
+         "codeISO2": "JO",
+
+         "nameOfficialEN": "the Hashemite Kingdom of Jordan",
+
+         "nameShortEN": "Jordan",
+
+         "nameListEN": "Jordan",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Kazakhstan",
+
+         "codeISO3": "KAZ",
+
+         "codeISO2": "KZ",
+
+         "nameOfficialEN": "the Republic of Kazakhstan",
+
+         "nameShortEN": "Kazakhstan",
+
+         "nameListEN": "Kazakhstan",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Singapore",
+
+         "codeISO3": "SGP",
+
+         "codeISO2": "SG",
+
+         "nameOfficialEN": "the Republic of Singapore",
+
+         "nameShortEN": "Singapore",
+
+         "nameListEN": "Singapore",
+
+         "FAO_MEMBERS": []
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Sudan_the",
+
+         "codeISO3": "SDN",
+
+         "codeISO2": "SD",
+
+         "nameOfficialEN": "the Republic of the Sudan",
+
+         "nameShortEN": "the Sudan",
+
+         "nameListEN": "Sudan",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Tajikistan",
+
+         "codeISO3": "TJK",
+
+         "codeISO2": "TJ",
+
+         "nameOfficialEN": "the Republic of Tajikistan",
+
+         "nameShortEN": "Tajikistan",
+
+         "nameListEN": "Tajikistan",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Bhutan",
+
+         "codeISO3": "BTN",
+
+         "codeISO2": "BT",
+
+         "nameOfficialEN": "the Kingdom of Bhutan",
+
+         "nameShortEN": "Bhutan",
+
+         "nameListEN": "Bhutan",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Switzerland",
+
+         "codeISO3": "CHE",
+
+         "codeISO2": "CH",
+
+         "nameOfficialEN": "the Swiss Confederation",
+
+         "nameShortEN": "Switzerland",
+
+         "nameListEN": "Switzerland",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Saint_Vincent_and_the_Grenadines",
+
+         "codeISO3": "VCT",
+
+         "codeISO2": "VC",
+
+         "nameOfficialEN": "Saint Vincent and the Grenadines",
+
+         "nameShortEN": "Saint Vincent and the Grenadines",
+
+         "nameListEN": "Saint Vincent and the Grenadines",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Myanmar",
+
+         "codeISO3": "MMR",
+
+         "codeISO2": "MM",
+
+         "nameOfficialEN": "the Republic of the Union of Myanmar",
+
+         "nameShortEN": "Myanmar",
+
+         "nameListEN": "Myanmar",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Indonesia",
+
+         "codeISO3": "IDN",
+
+         "codeISO2": "ID",
+
+         "nameOfficialEN": "the Republic of Indonesia",
+
+         "nameShortEN": "Indonesia",
+
+         "nameListEN": "Indonesia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Panama",
+
+         "codeISO3": "PAN",
+
+         "codeISO2": "PA",
+
+         "nameOfficialEN": "the Republic of Panama",
+
+         "nameShortEN": "Panama",
+
+         "nameListEN": "Panama",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Dominican_Republic_the",
+
+         "codeISO3": "DOM",
+
+         "codeISO2": "DO",
+
+         "nameOfficialEN": "the Dominican Republic",
+
+         "nameShortEN": "Dominican Republic (the)",
+
+         "nameListEN": "Dominican Republic",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Turkey",
+
+         "codeISO3": "TUR",
+
+         "codeISO2": "TR",
+
+         "nameOfficialEN": "the Republic of Turkey",
+
+         "nameShortEN": "Turkey",
+
+         "nameListEN": "Turkey",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Papua_New_Guinea",
+
+         "codeISO3": "PNG",
+
+         "codeISO2": "PG",
+
+         "nameOfficialEN": "Papua New Guinea",
+
+         "nameShortEN": "Papua New Guinea",
+
+         "nameListEN": "Papua New Guinea",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Brunei_Darussalam",
+
+         "codeISO3": "BRN",
+
+         "codeISO2": "BN",
+
+         "nameOfficialEN": "Brunei Darussalam",
+
+         "nameShortEN": "Brunei Darussalam",
+
+         "nameListEN": "Brunei Darussalam",
+
+         "FAO_MEMBERS": []
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Eritrea",
+
+         "codeISO3": "ERI",
+
+         "codeISO2": "ER",
+
+         "nameOfficialEN": "Eritrea",
+
+         "nameShortEN": "Eritrea",
+
+         "nameListEN": "Eritrea",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Dominica",
+
+         "codeISO3": "DMA",
+
+         "codeISO2": "DM",
+
+         "nameOfficialEN": "the Commonwealth of Dominica",
+
+         "nameShortEN": "Dominica",
+
+         "nameListEN": "Dominica",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Turkmenistan",
+
+         "codeISO3": "TKM",
+
+         "codeISO2": "TM",
+
+         "nameOfficialEN": "Turkmenistan",
+
+         "nameShortEN": "Turkmenistan",
+
+         "nameListEN": "Turkmenistan",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Democratic_Republic_of_the_Congo",
+
+         "codeISO3": "COD",
+
+         "codeISO2": "CD",
+
+         "nameOfficialEN": "the Democratic Republic of the Congo",
+
+         "nameShortEN": "the Democratic Republic of the Congo",
+
+         "nameListEN": "Democratic Republic of the Congo",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Democratic_People_s_Republic_of_Korea_the",
+
+         "codeISO3": "PRK",
+
+         "codeISO2": "KP",
+
+         "nameOfficialEN": "the Democratic People's Republic of Korea",
+
+         "nameShortEN": "the Democratic People's Republic of Korea",
+
+         "nameListEN": "Democratic People's Republic of Korea",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Solomon_Islands",
+
+         "codeISO3": "SLB",
+
+         "codeISO2": "SB",
+
+         "nameOfficialEN": "Solomon Islands",
+
+         "nameShortEN": "Solomon Islands",
+
+         "nameListEN": "Solomon Islands",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Morocco",
+
+         "codeISO3": "MAR",
+
+         "codeISO2": "MA",
+
+         "nameOfficialEN": "the Kingdom of Morocco",
+
+         "nameShortEN": "Morocco",
+
+         "nameListEN": "Morocco",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Uganda",
+
+         "codeISO3": "UGA",
+
+         "codeISO2": "UG",
+
+         "nameOfficialEN": "the Republic of Uganda",
+
+         "nameShortEN": "Uganda",
+
+         "nameListEN": "Uganda",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Faroe_Islands",
+
+         "codeISO3": "FRO",
+
+         "codeISO2": "FO",
+
+         "nameOfficialEN": "Faroe Islands",
+
+         "nameShortEN": "Faroe Islands",
+
+         "nameListEN": "Faroe Islands",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#South_Africa",
+
+         "codeISO3": "ZAF",
+
+         "codeISO2": "ZA",
+
+         "nameOfficialEN": "the Republic of South Africa",
+
+         "nameShortEN": "South Africa",
+
+         "nameListEN": "South Africa",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Afghanistan",
+
+         "codeISO3": "AFG",
+
+         "codeISO2": "AF",
+
+         "nameOfficialEN": "The Islamic Republic of Afghanistan",
+
+         "nameShortEN": "Afghanistan",
+
+         "nameListEN": "Afghanistan",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Armenia",
+
+         "codeISO3": "ARM",
+
+         "codeISO2": "AM",
+
+         "nameOfficialEN": "the Republic of Armenia",
+
+         "nameShortEN": "Armenia",
+
+         "nameListEN": "Armenia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Rwanda",
+
+         "codeISO3": "RWA",
+
+         "codeISO2": "RW",
+
+         "nameOfficialEN": "the Republic of Rwanda",
+
+         "nameShortEN": "Rwanda",
+
+         "nameListEN": "Rwanda",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Djibouti",
+
+         "codeISO3": "DJI",
+
+         "codeISO2": "DJ",
+
+         "nameOfficialEN": "the Republic of Djibouti",
+
+         "nameShortEN": "Djibouti",
+
+         "nameListEN": "Djibouti",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#San_Marino",
+
+         "codeISO3": "SMR",
+
+         "codeISO2": "SM",
+
+         "nameOfficialEN": "the Republic of San Marino",
+
+         "nameShortEN": "San Marino",
+
+         "nameListEN": "San Marino",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Sao_Tome_and_Principe",
+
+         "codeISO3": "STP",
+
+         "codeISO2": "ST",
+
+         "nameOfficialEN": "the Democratic Republic of Sao Tome and Principe",
+
+         "nameShortEN": "Sao Tome and Principe",
+
+         "nameListEN": "Sao Tome and Principe",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Luxembourg",
+
+         "codeISO3": "LUX",
+
+         "codeISO2": "LU",
+
+         "nameOfficialEN": "the Grand Duchy of Luxembourg",
+
+         "nameShortEN": "Luxembourg",
+
+         "nameListEN": "Luxembourg",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Nauru",
+
+         "codeISO3": "NRU",
+
+         "codeISO2": "NR",
+
+         "nameOfficialEN": "the Republic of Nauru",
+
+         "nameShortEN": "Nauru",
+
+         "nameListEN": "Nauru",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Algeria",
+
+         "codeISO3": "DZA",
+
+         "codeISO2": "DZ",
+
+         "nameOfficialEN": "the People's Democratic Republic of Algeria",
+
+         "nameShortEN": "Algeria",
+
+         "nameListEN": "Algeria",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Nicaragua",
+
+         "codeISO3": "NIC",
+
+         "codeISO2": "NI",
+
+         "nameOfficialEN": "the Republic of Nicaragua",
+
+         "nameShortEN": "Nicaragua",
+
+         "nameListEN": "Nicaragua",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Marshall_Islands__the",
+
+         "codeISO3": "MHL",
+
+         "codeISO2": "MH",
+
+         "nameOfficialEN": "the Republic of the Marshall Islands",
+
+         "nameShortEN": "the Marshall Islands",
+
+         "nameListEN": "Marshall Islands",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Oman",
+
+         "codeISO3": "OMN",
+
+         "codeISO2": "OM",
+
+         "nameOfficialEN": "the Sultanate of Oman",
+
+         "nameShortEN": "Oman",
+
+         "nameListEN": "Oman",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Chad",
+
+         "codeISO3": "TCD",
+
+         "codeISO2": "TD",
+
+         "nameOfficialEN": "the Republic of Chad",
+
+         "nameShortEN": "Chad",
+
+         "nameListEN": "Chad",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Italy",
+
+         "codeISO3": "ITA",
+
+         "codeISO2": "IT",
+
+         "nameOfficialEN": "the Republic of Italy",
+
+         "nameShortEN": "Italy",
+
+         "nameListEN": "Italy",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Tunisia",
+
+         "codeISO3": "TUN",
+
+         "codeISO2": "TN",
+
+         "nameOfficialEN": "the Republic of Tunisia",
+
+         "nameShortEN": "Tunisia",
+
+         "nameListEN": "Tunisia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Gambia__the",
+
+         "codeISO3": "GMB",
+
+         "codeISO2": "GM",
+
+         "nameOfficialEN": "the Republic of the Gambia",
+
+         "nameShortEN": "the Gambia",
+
+         "nameListEN": "Gambia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Serbia",
+
+         "codeISO3": "SRB",
+
+         "codeISO2": "RS",
+
+         "nameOfficialEN": "the Republic of Serbia",
+
+         "nameShortEN": "Serbia",
+
+         "nameListEN": "Serbia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#New_Zealand",
+
+         "codeISO3": "NZL",
+
+         "codeISO2": "NZ",
+
+         "nameOfficialEN": "New Zealand",
+
+         "nameShortEN": "New Zealand",
+
+         "nameListEN": "New Zealand",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Russian_Federation__the",
+
+         "codeISO3": "RUS",
+
+         "codeISO2": "RU",
+
+         "nameOfficialEN": "the Russian Federation",
+
+         "nameShortEN": "the Russian Federation",
+
+         "nameListEN": "Russian Federation",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Tonga",
+
+         "codeISO3": "TON",
+
+         "codeISO2": "TO",
+
+         "nameOfficialEN": "the Kingdom of Tonga",
+
+         "nameShortEN": "Tonga",
+
+         "nameListEN": "Tonga",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Uruguay",
+
+         "codeISO3": "URY",
+
+         "codeISO2": "UY",
+
+         "nameOfficialEN": "the Eastern Republic of Uruguay",
+
+         "nameShortEN": "Uruguay",
+
+         "nameListEN": "Uruguay",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Montenegro",
+
+         "codeISO3": "MNE",
+
+         "codeISO2": "ME",
+
+         "nameOfficialEN": "Montenegro",
+
+         "nameShortEN": "Montenegro",
+
+         "nameListEN": "Montenegro",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Sierra_Leone",
+
+         "codeISO3": "SLE",
+
+         "codeISO2": "SL",
+
+         "nameOfficialEN": "the Republic of Sierra Leone",
+
+         "nameShortEN": "Sierra Leone",
+
+         "nameListEN": "Sierra Leone",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Republic_of_Moldova",
+
+         "codeISO3": "MDA",
+
+         "codeISO2": "MD",
+
+         "nameOfficialEN": "the Republic of Moldova",
+
+         "nameShortEN": "Republic of Moldova",
+
+         "nameListEN": "Republic of Moldova",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Georgia",
+
+         "codeISO3": "GEO",
+
+         "codeISO2": "GE",
+
+         "nameOfficialEN": "Georgia",
+
+         "nameShortEN": "Georgia",
+
+         "nameListEN": "Georgia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Micronesia__Fed_States_of_",
+
+         "codeISO3": "FSM",
+
+         "codeISO2": "FM",
+
+         "nameOfficialEN": "the Federated States of Micronesia",
+
+         "nameShortEN": "Micronesia (Federated States of)",
+
+         "nameListEN": "Micronesia (Federated States of)",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Guyana",
+
+         "codeISO3": "GUY",
+
+         "codeISO2": "GY",
+
+         "nameOfficialEN": "the Republic of Guyana",
+
+         "nameShortEN": "Guyana",
+
+         "nameListEN": "Guyana",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#United_Arab_Emirates__the",
+
+         "codeISO3": "ARE",
+
+         "codeISO2": "AE",
+
+         "nameOfficialEN": "the United Arab Emirates",
+
+         "nameShortEN": "the United Arab Emirates",
+
+         "nameListEN": "United Arab Emirates",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Israel",
+
+         "codeISO3": "ISR",
+
+         "codeISO2": "IL",
+
+         "nameOfficialEN": "the State of Israel",
+
+         "nameShortEN": "Israel",
+
+         "nameListEN": "Israel",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Guinea",
+
+         "codeISO3": "GIN",
+
+         "codeISO2": "GN",
+
+         "nameOfficialEN": "the Republic of Guinea",
+
+         "nameShortEN": "Guinea",
+
+         "nameListEN": "Guinea",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Brazil",
+
+         "codeISO3": "BRA",
+
+         "codeISO2": "BR",
+
+         "nameOfficialEN": "the Federative Republic of Brazil",
+
+         "nameShortEN": "Brazil",
+
+         "nameListEN": "Brazil",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Ireland",
+
+         "codeISO3": "IRL",
+
+         "codeISO2": "IE",
+
+         "nameOfficialEN": "Ireland",
+
+         "nameShortEN": "Ireland",
+
+         "nameListEN": "Ireland",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Syrian_Arab_Republic_the",
+
+         "codeISO3": "SYR",
+
+         "codeISO2": "SY",
+
+         "nameOfficialEN": "the Syrian Arab Republic",
+
+         "nameShortEN": "the Syrian Arab Republic",
+
+         "nameListEN": "Syrian Arab Republic",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Hungary",
+
+         "codeISO3": "HUN",
+
+         "codeISO2": "HU",
+
+         "nameOfficialEN": "Hungary",
+
+         "nameShortEN": "Hungary",
+
+         "nameListEN": "Hungary",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#United_Kingdom_of_Great_Britain_and_Northern_Ireland__the",
+
+         "codeISO3": "GBR",
+
+         "codeISO2": "GB",
+
+         "nameOfficialEN": "the United Kingdom of Great Britain and Northern Ireland",
+
+         "nameShortEN": "the United Kingdom of Great Britain and Northern Ireland",
+
+         "nameListEN": "United Kingdom",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Colombia",
+
+         "codeISO3": "COL",
+
+         "codeISO2": "CO",
+
+         "nameOfficialEN": "the Republic of Colombia",
+
+         "nameShortEN": "Colombia",
+
+         "nameListEN": "Colombia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Haiti",
+
+         "codeISO3": "HTI",
+
+         "codeISO2": "HT",
+
+         "nameOfficialEN": "the Republic of Haiti",
+
+         "nameShortEN": "Haiti",
+
+         "nameListEN": "Haiti",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Latvia",
+
+         "codeISO3": "LVA",
+
+         "codeISO2": "LV",
+
+         "nameOfficialEN": "the Republic of Latvia",
+
+         "nameShortEN": "Latvia",
+
+         "nameListEN": "Latvia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Greece",
+
+         "codeISO3": "GRC",
+
+         "codeISO2": "GR",
+
+         "nameOfficialEN": "the Hellenic Republic",
+
+         "nameShortEN": "Greece",
+
+         "nameListEN": "Greece",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Peru",
+
+         "codeISO3": "PER",
+
+         "codeISO2": "PE",
+
+         "nameOfficialEN": "the Republic of Peru",
+
+         "nameShortEN": "Peru",
+
+         "nameListEN": "Peru",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Botswana",
+
+         "codeISO3": "BWA",
+
+         "codeISO2": "BW",
+
+         "nameOfficialEN": "the Republic of Botswana",
+
+         "nameShortEN": "Botswana",
+
+         "nameListEN": "Botswana",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Fiji",
+
+         "codeISO3": "FJI",
+
+         "codeISO2": "FJ",
+
+         "nameOfficialEN": "the Republic of Fiji",
+
+         "nameShortEN": "Fiji",
+
+         "nameListEN": "Fiji",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Viet_Nam",
+
+         "codeISO3": "VNM",
+
+         "codeISO2": "VN",
+
+         "nameOfficialEN": "the Socialist Republic of Viet Nam",
+
+         "nameShortEN": "Viet Nam",
+
+         "nameListEN": "Viet Nam",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Paraguay",
+
+         "codeISO3": "PRY",
+
+         "codeISO2": "PY",
+
+         "nameOfficialEN": "the Republic of Paraguay",
+
+         "nameShortEN": "Paraguay",
+
+         "nameListEN": "Paraguay",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Grenada",
+
+         "codeISO3": "GRD",
+
+         "codeISO2": "GD",
+
+         "nameOfficialEN": "Grenada",
+
+         "nameShortEN": "Grenada",
+
+         "nameListEN": "Grenada",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Bulgaria",
+
+         "codeISO3": "BGR",
+
+         "codeISO2": "BG",
+
+         "nameOfficialEN": "the Republic of Bulgaria",
+
+         "nameShortEN": "Bulgaria",
+
+         "nameListEN": "Bulgaria",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Norway",
+
+         "codeISO3": "NOR",
+
+         "codeISO2": "NO",
+
+         "nameOfficialEN": "the Kingdom of Norway",
+
+         "nameShortEN": "Norway",
+
+         "nameListEN": "Norway",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Central_African_Republic_the",
+
+         "codeISO3": "CAF",
+
+         "codeISO2": "CF",
+
+         "nameOfficialEN": "the Central African Republic",
+
+         "nameShortEN": "the Central African Republic",
+
+         "nameListEN": "Central African Republic",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Ecuador",
+
+         "codeISO3": "ECU",
+
+         "codeISO2": "EC",
+
+         "nameOfficialEN": "the Republic of Ecuador",
+
+         "nameShortEN": "Ecuador",
+
+         "nameListEN": "Ecuador",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Venezuela",
+
+         "codeISO3": "VEN",
+
+         "codeISO2": "VE",
+
+         "nameOfficialEN": "the Bolivarian Republic of Venezuela",
+
+         "nameShortEN": "Venezuela (Bolivarian Republic of)",
+
+         "nameListEN": "Venezuela (Bolivarian Republic of)",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#France",
+
+         "codeISO3": "FRA",
+
+         "codeISO2": "FR",
+
+         "nameOfficialEN": "the French Republic",
+
+         "nameShortEN": "France",
+
+         "nameListEN": "France",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Libya",
+
+         "codeISO3": "LBY",
+
+         "codeISO2": "LY",
+
+         "nameOfficialEN": "Libya",
+
+         "nameShortEN": "Libya",
+
+         "nameListEN": "Libya",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Nigeria",
+
+         "codeISO3": "NGA",
+
+         "codeISO2": "NG",
+
+         "nameOfficialEN": "the Federal Republic of Nigeria",
+
+         "nameShortEN": "Nigeria",
+
+         "nameListEN": "Nigeria",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Mexico",
+
+         "codeISO3": "MEX",
+
+         "codeISO2": "MX",
+
+         "nameOfficialEN": "the United Mexican States",
+
+         "nameShortEN": "Mexico",
+
+         "nameListEN": "Mexico",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Congo_the",
+
+         "codeISO3": "COG",
+
+         "codeISO2": "CG",
+
+         "nameOfficialEN": "the Republic of the Congo",
+
+         "nameShortEN": "the Congo",
+
+         "nameListEN": "Congo",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Niue",
+
+         "codeISO3": "NIU",
+
+         "codeISO2": "NU",
+
+         "nameOfficialEN": "the Republic of Niue",
+
+         "nameShortEN": "Niue",
+
+         "nameListEN": "Niue",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Comoros_the",
+
+         "codeISO3": "COM",
+
+         "codeISO2": "KM",
+
+         "nameOfficialEN": "the Union of the Comoros",
+
+         "nameShortEN": "the Comoros",
+
+         "nameListEN": "Comoros",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Tokelau",
+
+         "codeISO3": "TKL",
+
+         "codeISO2": "TK",
+
+         "nameOfficialEN": "Tokelau",
+
+         "nameShortEN": "Tokelau",
+
+         "nameListEN": "Tokelau",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Bosnia_and_Herzegovina",
+
+         "codeISO3": "BIH",
+
+         "codeISO2": "BA",
+
+         "nameOfficialEN": "Bosnia and Herzegovina",
+
+         "nameShortEN": "Bosnia and Herzegovina",
+
+         "nameListEN": "Bosnia and Herzegovina",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Togo",
+
+         "codeISO3": "TGO",
+
+         "codeISO2": "TG",
+
+         "nameOfficialEN": "the Togolese Republic",
+
+         "nameShortEN": "Togo",
+
+         "nameListEN": "Togo",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Barbados",
+
+         "codeISO3": "BRB",
+
+         "codeISO2": "BB",
+
+         "nameOfficialEN": "Barbados",
+
+         "nameShortEN": "Barbados",
+
+         "nameListEN": "Barbados",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Zambia",
+
+         "codeISO3": "ZMB",
+
+         "codeISO2": "ZM",
+
+         "nameOfficialEN": "the Republic of Zambia",
+
+         "nameShortEN": "Zambia",
+
+         "nameListEN": "Zambia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Japan",
+
+         "codeISO3": "JPN",
+
+         "codeISO2": "JP",
+
+         "nameOfficialEN": "Japan",
+
+         "nameShortEN": "Japan",
+
+         "nameListEN": "Japan",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Kuwait",
+
+         "codeISO3": "KWT",
+
+         "codeISO2": "KW",
+
+         "nameOfficialEN": "the State of Kuwait",
+
+         "nameShortEN": "Kuwait",
+
+         "nameListEN": "Kuwait",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Bahrain",
+
+         "codeISO3": "BHR",
+
+         "codeISO2": "BH",
+
+         "nameOfficialEN": "the Kingdom of Bahrain",
+
+         "nameShortEN": "Bahrain",
+
+         "nameListEN": "Bahrain",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Holy_See",
+
+         "codeISO3": "VAT",
+
+         "codeISO2": "VA",
+
+         "nameOfficialEN": "Holy See",
+
+         "nameShortEN": "Holy See",
+
+         "nameListEN": "Holy See",
+
+         "FAO_MEMBERS": []
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Seychelles",
+
+         "codeISO3": "SYC",
+
+         "codeISO2": "SC",
+
+         "nameOfficialEN": "the Republic of Seychelles",
+
+         "nameShortEN": "Seychelles",
+
+         "nameListEN": "Seychelles",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Cameroon",
+
+         "codeISO3": "CMR",
+
+         "codeISO2": "CM",
+
+         "nameOfficialEN": "the Republic of Cameroon",
+
+         "nameShortEN": "Cameroon",
+
+         "nameListEN": "Cameroon",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#India",
+
+         "codeISO3": "IND",
+
+         "codeISO2": "IN",
+
+         "nameOfficialEN": "the Republic of India",
+
+         "nameShortEN": "India",
+
+         "nameListEN": "India",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Zimbabwe",
+
+         "codeISO3": "ZWE",
+
+         "codeISO2": "ZW",
+
+         "nameOfficialEN": "the Republic of Zimbabwe",
+
+         "nameShortEN": "Zimbabwe",
+
+         "nameListEN": "Zimbabwe",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Bangladesh",
+
+         "codeISO3": "BGD",
+
+         "codeISO2": "BD",
+
+         "nameOfficialEN": "the People's Republic of Bangladesh",
+
+         "nameShortEN": "Bangladesh",
+
+         "nameListEN": "Bangladesh",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Jamaica",
+
+         "codeISO3": "JAM",
+
+         "codeISO2": "JM",
+
+         "nameOfficialEN": "Jamaica",
+
+         "nameShortEN": "Jamaica",
+
+         "nameListEN": "Jamaica",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Croatia",
+
+         "codeISO3": "HRV",
+
+         "codeISO2": "HR",
+
+         "nameOfficialEN": "the Republic of Croatia",
+
+         "nameShortEN": "Croatia",
+
+         "nameListEN": "Croatia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Yemen",
+
+         "codeISO3": "YEM",
+
+         "codeISO2": "YE",
+
+         "nameOfficialEN": "the Republic of Yemen",
+
+         "nameShortEN": "Yemen",
+
+         "nameListEN": "Yemen",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Slovakia",
+
+         "codeISO3": "SVK",
+
+         "codeISO2": "SK",
+
+         "nameOfficialEN": "the Slovak Republic",
+
+         "nameShortEN": "Slovakia",
+
+         "nameListEN": "Slovakia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Germany",
+
+         "codeISO3": "DEU",
+
+         "codeISO2": "DE",
+
+         "nameOfficialEN": "the Federal Republic of Germany",
+
+         "nameShortEN": "Germany",
+
+         "nameListEN": "Germany",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Vanuatu",
+
+         "codeISO3": "VUT",
+
+         "codeISO2": "VU",
+
+         "nameOfficialEN": "the Republic of Vanuatu",
+
+         "nameShortEN": "Vanuatu",
+
+         "nameListEN": "Vanuatu",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      },
+
+      {
+
+         "@id": "http://aims.fao.org/aos/geopolitical.owl#Saudi_Arabia",
+
+         "codeISO3": "SAU",
+
+         "codeISO2": "SA",
+
+         "nameOfficialEN": "the Kingdom of Saudi Arabia",
+
+         "nameShortEN": "Saudi Arabia",
+
+         "nameListEN": "Saudi Arabia",
+
+         "FAO_MEMBERS": "FAO MEMBER NATION"
+
+      }
+
+   ]
+
+}
+
