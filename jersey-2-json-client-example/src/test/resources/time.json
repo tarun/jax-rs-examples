@@ -1,0 +1,9 @@
+/* http://stormy-winter-5310.herokuapp.com/time.json */
+{
+	"datetime": "Thu Jul 25 2013 19:17:57 GMT+0000 (UTC)",
+	"hour": 19,
+	"minute": 17,
+	"second": 57,
+	"timezoneOffset": 0,
+	"error": false
+}
