@@ -7,6 +7,8 @@ import javax.ws.rs.client.WebTarget;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.Response.Status;
 
+import com.tarunbk.example.jax_rs_examples.jersey2_xml_client_example.model.Countries;
+
 public class CountriesDao {
 
     private static final String COUNTRY_LIST_ENDPOINT = "http://www.fao.org/countryprofiles/geoinfo/ws/allCountries";
@@ -20,7 +22,7 @@ public class CountriesDao {
                 response.getStatusInfo() != null &&
                 response.getStatusInfo().getFamily() == Status.Family.SUCCESSFUL) {
             System.out.println("The response was");
-            System.out.println(response.readEntity(String.class));
+            System.out.println(response.readEntity(Countries.class));
         } else {
             System.err.println("Error getting response from remote server");
             if (response != null) {
