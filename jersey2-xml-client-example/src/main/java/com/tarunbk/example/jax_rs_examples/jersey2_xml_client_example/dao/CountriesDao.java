@@ -13,7 +13,7 @@ public class CountriesDao {
 
     private static final String COUNTRY_LIST_ENDPOINT = "http://www.fao.org/countryprofiles/geoinfo/ws/allCountries";
 
-    public void getAllCountries() {
+    public Countries getAllCountries() {
         Client client = ClientBuilder.newClient();
         WebTarget target = client.target(COUNTRY_LIST_ENDPOINT).path("EN"); // in english
         Builder builder = target.request(); // unfortunately the above service does not take media type but does return xml
@@ -21,13 +21,13 @@ public class CountriesDao {
         if (response != null &&
                 response.getStatusInfo() != null &&
                 response.getStatusInfo().getFamily() == Status.Family.SUCCESSFUL) {
-            System.out.println("The response was");
-            System.out.println(response.readEntity(Countries.class));
+            return response.readEntity(Countries.class);
         } else {
             System.err.println("Error getting response from remote server");
             if (response != null) {
-                System.out.println(response.getStatusInfo());
+                System.err.println(response.getStatusInfo());
             }
+            return null;
         }
 
     }
