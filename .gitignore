@@ -2,3 +2,4 @@
 jersey-2-json-client-example/.project
 jersey-2-json-client-example/.classpath
 **/target
+dependency-reduced-pom.xml
