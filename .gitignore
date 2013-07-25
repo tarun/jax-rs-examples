@@ -1,5 +1,5 @@
 **/.settings/*.prefs
-jersey-2-json-client-example/.project
-jersey-2-json-client-example/.classpath
+**/.project
+**/.classpath
 **/target
 dependency-reduced-pom.xml

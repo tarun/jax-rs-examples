@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data xmlns:dc="http://purl.org/dc/elements/1.1">
+<Header>
+<ID>All countries</ID>
+<dc:source>FAO Geopolitical Ontology web services</dc:source>
+<SourceIdentifier>http://aims.fao.org/aos/geopolitical.owl</SourceIdentifier>
+<SourceModified>2011-01-18</SourceModified>
+<extractedDate>2013-07-25</extractedDate>
+<dc:description>Individual data items and related source information are detailed in http://aims.fao.org/aos/geopolitical.owl. For additional information consult www.fao.org/countryprofiles/ </dc:description></Header>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#United_Republic_of_Tanzania__the">
+<codeISO3>TZA</codeISO3>
+<codeISO2>TZ</codeISO2>
+<nameOfficialEN>the United Republic of Tanzania</nameOfficialEN>
+<nameShortEN>the United Republic of Tanzania</nameShortEN>
+<nameListEN>United Republic of Tanzania</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Cuba">
+<codeISO3>CUB</codeISO3>
+<codeISO2>CU</codeISO2>
+<nameOfficialEN>the Republic of Cuba</nameOfficialEN>
+<nameShortEN>Cuba</nameShortEN>
+<nameListEN>Cuba</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Uzbekistan">
+<codeISO3>UZB</codeISO3>
+<codeISO2>UZ</codeISO2>
+<nameOfficialEN>the Republic of Uzbekistan</nameOfficialEN>
+<nameShortEN>Uzbekistan</nameShortEN>
+<nameListEN>Uzbekistan</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Philippines__the">
+<codeISO3>PHL</codeISO3>
+<codeISO2>PH</codeISO2>
+<nameOfficialEN>the Republic of the Philippines</nameOfficialEN>
+<nameShortEN>the Philippines</nameShortEN>
+<nameListEN>Philippines</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Tuvalu">
+<codeISO3>TUV</codeISO3>
+<codeISO2>TV</codeISO2>
+<nameOfficialEN>Tuvalu</nameOfficialEN>
+<nameShortEN>Tuvalu</nameShortEN>
+<nameListEN>Tuvalu</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Belarus">
+<codeISO3>BLR</codeISO3>
+<codeISO2>BY</codeISO2>
+<nameOfficialEN>the Republic of Belarus</nameOfficialEN>
+<nameShortEN>Belarus</nameShortEN>
+<nameListEN>Belarus</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#United_States_of_America">
+<codeISO3>USA</codeISO3>
+<codeISO2>US</codeISO2>
+<nameOfficialEN>the United States of America</nameOfficialEN>
+<nameShortEN>the United States of America</nameShortEN>
+<nameListEN>United States of America</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Lithuania">
+<codeISO3>LTU</codeISO3>
+<codeISO2>LT</codeISO2>
+<nameOfficialEN>the Republic of Lithuania</nameOfficialEN>
+<nameShortEN>Lithuania</nameShortEN>
+<nameListEN>Lithuania</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Australia">
+<codeISO3>AUS</codeISO3>
+<codeISO2>AU</codeISO2>
+<nameOfficialEN>Australia</nameOfficialEN>
+<nameShortEN>Australia</nameShortEN>
+<nameListEN>Australia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Angola">
+<codeISO3>AGO</codeISO3>
+<codeISO2>AO</codeISO2>
+<nameOfficialEN>the Republic of Angola</nameOfficialEN>
+<nameShortEN>Angola</nameShortEN>
+<nameListEN>Angola</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Belgium">
+<codeISO3>BEL</codeISO3>
+<codeISO2>BE</codeISO2>
+<nameOfficialEN>the Kingdom of Belgium</nameOfficialEN>
+<nameShortEN>Belgium</nameShortEN>
+<nameListEN>Belgium</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Equatorial_Guinea">
+<codeISO3>GNQ</codeISO3>
+<codeISO2>GQ</codeISO2>
+<nameOfficialEN>the Republic of Equatorial Guinea</nameOfficialEN>
+<nameShortEN>Equatorial Guinea</nameShortEN>
+<nameListEN>Equatorial Guinea</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Romania">
+<codeISO3>ROU</codeISO3>
+<codeISO2>RO</codeISO2>
+<nameOfficialEN>Romania</nameOfficialEN>
+<nameShortEN>Romania</nameShortEN>
+<nameListEN>Romania</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Spain">
+<codeISO3>ESP</codeISO3>
+<codeISO2>ES</codeISO2>
+<nameOfficialEN>the Kingdom of Spain</nameOfficialEN>
+<nameShortEN>Spain</nameShortEN>
+<nameListEN>Spain</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Chile">
+<codeISO3>CHL</codeISO3>
+<codeISO2>CL</codeISO2>
+<nameOfficialEN>the Republic of Chile</nameOfficialEN>
+<nameShortEN>Chile</nameShortEN>
+<nameListEN>Chile</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Benin">
+<codeISO3>BEN</codeISO3>
+<codeISO2>BJ</codeISO2>
+<nameOfficialEN>the Republic of Benin</nameOfficialEN>
+<nameShortEN>Benin</nameShortEN>
+<nameListEN>Benin</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Senegal">
+<codeISO3>SEN</codeISO3>
+<codeISO2>SN</codeISO2>
+<nameOfficialEN>the Republic of Senegal</nameOfficialEN>
+<nameShortEN>Senegal</nameShortEN>
+<nameListEN>Senegal</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Bolivia">
+<codeISO3>BOL</codeISO3>
+<codeISO2>BO</codeISO2>
+<nameOfficialEN>the Plurinational State of Bolivia</nameOfficialEN>
+<nameShortEN>Bolivia (Plurinational State of)</nameShortEN>
+<nameListEN>Bolivia (Plurinational State of)</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Finland">
+<codeISO3>FIN</codeISO3>
+<codeISO2>FI</codeISO2>
+<nameOfficialEN>the Republic of Finland</nameOfficialEN>
+<nameShortEN>Finland</nameShortEN>
+<nameListEN>Finland</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Nepal">
+<codeISO3>NPL</codeISO3>
+<codeISO2>NP</codeISO2>
+<nameOfficialEN>Federal Democratic Republic of Nepal</nameOfficialEN>
+<nameShortEN>Nepal</nameShortEN>
+<nameListEN>Nepal</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Mauritania">
+<codeISO3>MRT</codeISO3>
+<codeISO2>MR</codeISO2>
+<nameOfficialEN>the Islamic Republic of Mauritania</nameOfficialEN>
+<nameShortEN>Mauritania</nameShortEN>
+<nameListEN>Mauritania</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Burundi">
+<codeISO3>BDI</codeISO3>
+<codeISO2>BI</codeISO2>
+<nameOfficialEN>the Republic of Burundi</nameOfficialEN>
+<nameShortEN>Burundi</nameShortEN>
+<nameListEN>Burundi</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Albania">
+<codeISO3>ALB</codeISO3>
+<codeISO2>AL</codeISO2>
+<nameOfficialEN>the Republic of Albania</nameOfficialEN>
+<nameShortEN>Albania</nameShortEN>
+<nameListEN>Albania</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Maldives">
+<codeISO3>MDV</codeISO3>
+<codeISO2>MV</codeISO2>
+<nameOfficialEN>the Republic of Maldives</nameOfficialEN>
+<nameShortEN>Maldives</nameShortEN>
+<nameListEN>Maldives</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Malawi">
+<codeISO3>MWI</codeISO3>
+<codeISO2>MW</codeISO2>
+<nameOfficialEN>the Republic of Malawi</nameOfficialEN>
+<nameShortEN>Malawi</nameShortEN>
+<nameListEN>Malawi</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Mali">
+<codeISO3>MLI</codeISO3>
+<codeISO2>ML</codeISO2>
+<nameOfficialEN>the Republic of Mali</nameOfficialEN>
+<nameShortEN>Mali</nameShortEN>
+<nameListEN>Mali</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Belize">
+<codeISO3>BLZ</codeISO3>
+<codeISO2>BZ</codeISO2>
+<nameOfficialEN>Belize</nameOfficialEN>
+<nameShortEN>Belize</nameShortEN>
+<nameListEN>Belize</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#China">
+<codeISO3>CHN</codeISO3>
+<codeISO2>CN</codeISO2>
+<nameOfficialEN>the People's Republic of China</nameOfficialEN>
+<nameShortEN>China</nameShortEN>
+<nameListEN>China</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Niger_the">
+<codeISO3>NER</codeISO3>
+<codeISO2>NE</codeISO2>
+<nameOfficialEN>the Republic of the Niger</nameOfficialEN>
+<nameShortEN>the Niger</nameShortEN>
+<nameListEN>Niger</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Somalia">
+<codeISO3>SOM</codeISO3>
+<codeISO2>SO</codeISO2>
+<nameOfficialEN>the Somali Republic</nameOfficialEN>
+<nameShortEN>Somalia</nameShortEN>
+<nameListEN>Somalia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Guinea-Bissau">
+<codeISO3>GNB</codeISO3>
+<codeISO2>GW</codeISO2>
+<nameOfficialEN>the Republic of Guinea-Bissau</nameOfficialEN>
+<nameShortEN>Guinea-Bissau</nameShortEN>
+<nameListEN>Guinea-Bissau</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Cyprus">
+<codeISO3>CYP</codeISO3>
+<codeISO2>CY</codeISO2>
+<nameOfficialEN>the Republic of Cyprus</nameOfficialEN>
+<nameShortEN>Cyprus</nameShortEN>
+<nameListEN>Cyprus</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Saint_Kitts_and_Nevis">
+<codeISO3>KNA</codeISO3>
+<codeISO2>KN</codeISO2>
+<nameOfficialEN>Saint Kitts and Nevis</nameOfficialEN>
+<nameShortEN>Saint Kitts and Nevis</nameShortEN>
+<nameListEN>Saint Kitts and Nevis</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Ethiopia">
+<codeISO3>ETH</codeISO3>
+<codeISO2>ET</codeISO2>
+<nameOfficialEN>the Federal Democratic Republic of Ethiopia</nameOfficialEN>
+<nameShortEN>Ethiopia</nameShortEN>
+<nameListEN>Ethiopia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Lao_People_s_Democratic_Republic__the">
+<codeISO3>LAO</codeISO3>
+<codeISO2>LA</codeISO2>
+<nameOfficialEN>the Lao People's Democratic Republic</nameOfficialEN>
+<nameShortEN>the Lao People's Democratic Republic</nameShortEN>
+<nameListEN>Lao People's Democratic Republic</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Antigua_and_Barbuda">
+<codeISO3>ATG</codeISO3>
+<codeISO2>AG</codeISO2>
+<nameOfficialEN>Antigua and Barbuda</nameOfficialEN>
+<nameShortEN>Antigua and Barbuda</nameShortEN>
+<nameListEN>Antigua and Barbuda</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Mongolia">
+<codeISO3>MNG</codeISO3>
+<codeISO2>MN</codeISO2>
+<nameOfficialEN>Mongolia</nameOfficialEN>
+<nameShortEN>Mongolia</nameShortEN>
+<nameListEN>Mongolia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Swaziland">
+<codeISO3>SWZ</codeISO3>
+<codeISO2>SZ</codeISO2>
+<nameOfficialEN>the Kingdom of Swaziland</nameOfficialEN>
+<nameShortEN>Swaziland</nameShortEN>
+<nameListEN>Swaziland</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Iran_Islamic_Rep_of_">
+<codeISO3>IRN</codeISO3>
+<codeISO2>IR</codeISO2>
+<nameOfficialEN>the Islamic Republic of Iran</nameOfficialEN>
+<nameShortEN>Iran (Islamic Republic of)</nameShortEN>
+<nameListEN>Iran (Islamic Republic of)</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Samoa">
+<codeISO3>WSM</codeISO3>
+<codeISO2>WS</codeISO2>
+<nameOfficialEN>the Independent State of Samoa</nameOfficialEN>
+<nameShortEN>Samoa</nameShortEN>
+<nameListEN>Samoa</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Pakistan">
+<codeISO3>PAK</codeISO3>
+<codeISO2>PK</codeISO2>
+<nameOfficialEN>the Islamic Republic of Pakistan</nameOfficialEN>
+<nameShortEN>Pakistan</nameShortEN>
+<nameListEN>Pakistan</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Portugal">
+<codeISO3>PRT</codeISO3>
+<codeISO2>PT</codeISO2>
+<nameOfficialEN>the Portuguese Republic</nameOfficialEN>
+<nameShortEN>Portugal</nameShortEN>
+<nameListEN>Portugal</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Burkina_Faso">
+<codeISO3>BFA</codeISO3>
+<codeISO2>BF</codeISO2>
+<nameOfficialEN>Burkina Faso</nameOfficialEN>
+<nameShortEN>Burkina Faso</nameShortEN>
+<nameListEN>Burkina Faso</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Czech_Republic_the">
+<codeISO3>CZE</codeISO3>
+<codeISO2>CZ</codeISO2>
+<nameOfficialEN>the Czech Republic</nameOfficialEN>
+<nameShortEN>the Czech Republic</nameShortEN>
+<nameListEN>Czech Republic</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Netherlands_the">
+<codeISO3>NLD</codeISO3>
+<codeISO2>NL</codeISO2>
+<nameOfficialEN>the Kingdom of the Netherlands</nameOfficialEN>
+<nameShortEN>the Netherlands</nameShortEN>
+<nameListEN>Netherlands</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Guatemala">
+<codeISO3>GTM</codeISO3>
+<codeISO2>GT</codeISO2>
+<nameOfficialEN>the Republic of Guatemala</nameOfficialEN>
+<nameShortEN>Guatemala</nameShortEN>
+<nameListEN>Guatemala</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Slovenia">
+<codeISO3>SVN</codeISO3>
+<codeISO2>SI</codeISO2>
+<nameOfficialEN>the Republic of Slovenia</nameOfficialEN>
+<nameShortEN>Slovenia</nameShortEN>
+<nameListEN>Slovenia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Monaco">
+<codeISO3>MCO</codeISO3>
+<codeISO2>MC</codeISO2>
+<nameOfficialEN>the Principality of Monaco</nameOfficialEN>
+<nameShortEN>Monaco</nameShortEN>
+<nameListEN>Monaco</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Andorra">
+<codeISO3>AND</codeISO3>
+<codeISO2>AD</codeISO2>
+<nameOfficialEN>the Principality of Andorra</nameOfficialEN>
+<nameShortEN>Andorra</nameShortEN>
+<nameListEN>Andorra</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Canada">
+<codeISO3>CAN</codeISO3>
+<codeISO2>CA</codeISO2>
+<nameOfficialEN>Canada</nameOfficialEN>
+<nameShortEN>Canada</nameShortEN>
+<nameListEN>Canada</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#The_former_Yugoslav_Republic_of_Macedonia">
+<codeISO3>MKD</codeISO3>
+<codeISO2>MK</codeISO2>
+<nameOfficialEN>The former Yugoslav Republic of Macedonia</nameOfficialEN>
+<nameShortEN>The former Yugoslav Republic of Macedonia</nameShortEN>
+<nameListEN>The former Yugoslav Republic of Macedonia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Lebanon">
+<codeISO3>LBN</codeISO3>
+<codeISO2>LB</codeISO2>
+<nameOfficialEN>the Lebanese Republic</nameOfficialEN>
+<nameShortEN>Lebanon</nameShortEN>
+<nameListEN>Lebanon</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Sweden">
+<codeISO3>SWE</codeISO3>
+<codeISO2>SE</codeISO2>
+<nameOfficialEN>the Kingdom of Sweden</nameOfficialEN>
+<nameShortEN>Sweden</nameShortEN>
+<nameListEN>Sweden</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Iceland">
+<codeISO3>ISL</codeISO3>
+<codeISO2>IS</codeISO2>
+<nameOfficialEN>the Republic of Iceland</nameOfficialEN>
+<nameShortEN>Iceland</nameShortEN>
+<nameListEN>Iceland</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Republic_of_Korea__the">
+<codeISO3>KOR</codeISO3>
+<codeISO2>KR</codeISO2>
+<nameOfficialEN>the Republic of Korea</nameOfficialEN>
+<nameShortEN>the Republic of Korea</nameShortEN>
+<nameListEN>Republic of Korea</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Mozambique">
+<codeISO3>MOZ</codeISO3>
+<codeISO2>MZ</codeISO2>
+<nameOfficialEN>the Republic of Mozambique</nameOfficialEN>
+<nameShortEN>Mozambique</nameShortEN>
+<nameListEN>Mozambique</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Cook_Islands_the">
+<codeISO3>COK</codeISO3>
+<codeISO2>CK</codeISO2>
+<nameOfficialEN>the Cook Islands</nameOfficialEN>
+<nameShortEN>the Cook Islands</nameShortEN>
+<nameListEN>Cook Islands</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Argentina">
+<codeISO3>ARG</codeISO3>
+<codeISO2>AR</codeISO2>
+<nameOfficialEN>the Argentine Republic</nameOfficialEN>
+<nameShortEN>Argentina</nameShortEN>
+<nameListEN>Argentina</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Honduras">
+<codeISO3>HND</codeISO3>
+<codeISO2>HN</codeISO2>
+<nameOfficialEN>the Republic of Honduras</nameOfficialEN>
+<nameShortEN>Honduras</nameShortEN>
+<nameListEN>Honduras</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Cote_d_Ivoire">
+<codeISO3>CIV</codeISO3>
+<codeISO2>CI</codeISO2>
+<nameOfficialEN>the Republic of Côte d'Ivoire</nameOfficialEN>
+<nameShortEN>Côte d'Ivoire</nameShortEN>
+<nameListEN>Côte d'Ivoire</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Denmark">
+<codeISO3>DNK</codeISO3>
+<codeISO2>DK</codeISO2>
+<nameOfficialEN>the Kingdom of Denmark</nameOfficialEN>
+<nameShortEN>Denmark</nameShortEN>
+<nameListEN>Denmark</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Palau">
+<codeISO3>PLW</codeISO3>
+<codeISO2>PW</codeISO2>
+<nameOfficialEN>the Republic of Palau</nameOfficialEN>
+<nameShortEN>Palau</nameShortEN>
+<nameListEN>Palau</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Austria">
+<codeISO3>AUT</codeISO3>
+<codeISO2>AT</codeISO2>
+<nameOfficialEN>the Republic of Austria</nameOfficialEN>
+<nameShortEN>Austria</nameShortEN>
+<nameListEN>Austria</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Malta">
+<codeISO3>MLT</codeISO3>
+<codeISO2>MT</codeISO2>
+<nameOfficialEN>the Republic of Malta</nameOfficialEN>
+<nameShortEN>Malta</nameShortEN>
+<nameListEN>Malta</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Liechtenstein">
+<codeISO3>LIE</codeISO3>
+<codeISO2>LI</codeISO2>
+<nameOfficialEN>the Principality of Liechtenstein</nameOfficialEN>
+<nameShortEN>Liechtenstein</nameShortEN>
+<nameListEN>Liechtenstein</nameListEN>
+<FAO_MEMBERS></FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Kyrgyzstan">
+<codeISO3>KGZ</codeISO3>
+<codeISO2>KG</codeISO2>
+<nameOfficialEN>the Kyrgyz Republic</nameOfficialEN>
+<nameShortEN>Kyrgyzstan</nameShortEN>
+<nameListEN>Kyrgyzstan</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Kenya">
+<codeISO3>KEN</codeISO3>
+<codeISO2>KE</codeISO2>
+<nameOfficialEN>the Republic of Kenya</nameOfficialEN>
+<nameShortEN>Kenya</nameShortEN>
+<nameListEN>Kenya</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Malaysia">
+<codeISO3>MYS</codeISO3>
+<codeISO2>MY</codeISO2>
+<nameOfficialEN>Malaysia</nameOfficialEN>
+<nameShortEN>Malaysia</nameShortEN>
+<nameListEN>Malaysia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Mauritius">
+<codeISO3>MUS</codeISO3>
+<codeISO2>MU</codeISO2>
+<nameOfficialEN>the Republic of Mauritius</nameOfficialEN>
+<nameShortEN>Mauritius</nameShortEN>
+<nameListEN>Mauritius</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Ghana">
+<codeISO3>GHA</codeISO3>
+<codeISO2>GH</codeISO2>
+<nameOfficialEN>the Republic of Ghana</nameOfficialEN>
+<nameShortEN>Ghana</nameShortEN>
+<nameListEN>Ghana</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Liberia">
+<codeISO3>LBR</codeISO3>
+<codeISO2>LR</codeISO2>
+<nameOfficialEN>the Republic of Liberia</nameOfficialEN>
+<nameShortEN>Liberia</nameShortEN>
+<nameListEN>Liberia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Namibia">
+<codeISO3>NAM</codeISO3>
+<codeISO2>NA</codeISO2>
+<nameOfficialEN>the Republic of Namibia</nameOfficialEN>
+<nameShortEN>Namibia</nameShortEN>
+<nameListEN>Namibia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Trinidad_and_Tobago">
+<codeISO3>TTO</codeISO3>
+<codeISO2>TT</codeISO2>
+<nameOfficialEN>the Republic of Trinidad and Tobago</nameOfficialEN>
+<nameShortEN>Trinidad and Tobago</nameShortEN>
+<nameListEN>Trinidad and Tobago</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Bahamas_the">
+<codeISO3>BHS</codeISO3>
+<codeISO2>BS</codeISO2>
+<nameOfficialEN>the Commonwealth of the Bahamas</nameOfficialEN>
+<nameShortEN>the Bahamas</nameShortEN>
+<nameListEN>Bahamas</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Egypt">
+<codeISO3>EGY</codeISO3>
+<codeISO2>EG</codeISO2>
+<nameOfficialEN>the Arab Republic of Egypt</nameOfficialEN>
+<nameShortEN>Egypt</nameShortEN>
+<nameListEN>Egypt</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Cambodia">
+<codeISO3>KHM</codeISO3>
+<codeISO2>KH</codeISO2>
+<nameOfficialEN>the Kingdom of Cambodia</nameOfficialEN>
+<nameShortEN>Cambodia</nameShortEN>
+<nameListEN>Cambodia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#South_Sudan">
+<codeISO3>SSD</codeISO3>
+<codeISO2>SS</codeISO2>
+<nameOfficialEN>Republic of South Sudan </nameOfficialEN>
+<nameShortEN>South Sudan</nameShortEN>
+<nameListEN>South Sudan </nameListEN>
+<FAO_MEMBERS></FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Kiribati">
+<codeISO3>KIR</codeISO3>
+<codeISO2>KI</codeISO2>
+<nameOfficialEN>the Republic of Kiribati</nameOfficialEN>
+<nameShortEN>Kiribati</nameShortEN>
+<nameListEN>Kiribati</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Poland">
+<codeISO3>POL</codeISO3>
+<codeISO2>PL</codeISO2>
+<nameOfficialEN>the Republic of Poland</nameOfficialEN>
+<nameShortEN>Poland</nameShortEN>
+<nameListEN>Poland</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Qatar">
+<codeISO3>QAT</codeISO3>
+<codeISO2>QA</codeISO2>
+<nameOfficialEN>the State of Qatar</nameOfficialEN>
+<nameShortEN>Qatar</nameShortEN>
+<nameListEN>Qatar</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#El_Salvador">
+<codeISO3>SLV</codeISO3>
+<codeISO2>SV</codeISO2>
+<nameOfficialEN>the Republic of El Salvador</nameOfficialEN>
+<nameShortEN>El Salvador</nameShortEN>
+<nameListEN>El Salvador</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Iraq">
+<codeISO3>IRQ</codeISO3>
+<codeISO2>IQ</codeISO2>
+<nameOfficialEN>the Republic of Iraq</nameOfficialEN>
+<nameShortEN>Iraq</nameShortEN>
+<nameListEN>Iraq</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Madagascar">
+<codeISO3>MDG</codeISO3>
+<codeISO2>MG</codeISO2>
+<nameOfficialEN>the Republic of Madagascar</nameOfficialEN>
+<nameShortEN>Madagascar</nameShortEN>
+<nameListEN>Madagascar</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Lesotho">
+<codeISO3>LSO</codeISO3>
+<codeISO2>LS</codeISO2>
+<nameOfficialEN>the Kingdom of Lesotho</nameOfficialEN>
+<nameShortEN>Lesotho</nameShortEN>
+<nameListEN>Lesotho</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Suriname">
+<codeISO3>SUR</codeISO3>
+<codeISO2>SR</codeISO2>
+<nameOfficialEN>the Republic of Suriname</nameOfficialEN>
+<nameShortEN>Suriname</nameShortEN>
+<nameListEN>Suriname</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Ukraine">
+<codeISO3>UKR</codeISO3>
+<codeISO2>UA</codeISO2>
+<nameOfficialEN>Ukraine</nameOfficialEN>
+<nameShortEN>Ukraine</nameShortEN>
+<nameListEN>Ukraine</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Estonia">
+<codeISO3>EST</codeISO3>
+<codeISO2>EE</codeISO2>
+<nameOfficialEN>the Republic of Estonia</nameOfficialEN>
+<nameShortEN>Estonia</nameShortEN>
+<nameListEN>Estonia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Saint_Lucia">
+<codeISO3>LCA</codeISO3>
+<codeISO2>LC</codeISO2>
+<nameOfficialEN>Saint Lucia</nameOfficialEN>
+<nameShortEN>Saint Lucia</nameShortEN>
+<nameListEN>Saint Lucia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Thailand">
+<codeISO3>THA</codeISO3>
+<codeISO2>TH</codeISO2>
+<nameOfficialEN>the Kingdom of Thailand</nameOfficialEN>
+<nameShortEN>Thailand</nameShortEN>
+<nameListEN>Thailand</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Azerbaijan">
+<codeISO3>AZE</codeISO3>
+<codeISO2>AZ</codeISO2>
+<nameOfficialEN>the Republic of Azerbaijan</nameOfficialEN>
+<nameShortEN>Azerbaijan</nameShortEN>
+<nameListEN>Azerbaijan</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Cape_Verde">
+<codeISO3>CPV</codeISO3>
+<codeISO2>CV</codeISO2>
+<nameOfficialEN>the Republic of Cape Verde</nameOfficialEN>
+<nameShortEN>Cape Verde</nameShortEN>
+<nameListEN>Cape Verde</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Sri_Lanka">
+<codeISO3>LKA</codeISO3>
+<codeISO2>LK</codeISO2>
+<nameOfficialEN>the Democratic Socialist Republic of Sri Lanka</nameOfficialEN>
+<nameShortEN>Sri Lanka</nameShortEN>
+<nameListEN>Sri Lanka</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Gabon">
+<codeISO3>GAB</codeISO3>
+<codeISO2>GA</codeISO2>
+<nameOfficialEN>the Gabonese Republic</nameOfficialEN>
+<nameShortEN>Gabon</nameShortEN>
+<nameListEN>Gabon</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Timor-Leste">
+<codeISO3>TLS</codeISO3>
+<codeISO2>TL</codeISO2>
+<nameOfficialEN>the Democratic Republic of Timor-Leste</nameOfficialEN>
+<nameShortEN>Timor-Leste</nameShortEN>
+<nameListEN>Timor-Leste</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Costa_Rica">
+<codeISO3>CRI</codeISO3>
+<codeISO2>CR</codeISO2>
+<nameOfficialEN>the Republic of Costa Rica</nameOfficialEN>
+<nameShortEN>Costa Rica</nameShortEN>
+<nameListEN>Costa Rica</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Jordan">
+<codeISO3>JOR</codeISO3>
+<codeISO2>JO</codeISO2>
+<nameOfficialEN>the Hashemite Kingdom of Jordan</nameOfficialEN>
+<nameShortEN>Jordan</nameShortEN>
+<nameListEN>Jordan</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Kazakhstan">
+<codeISO3>KAZ</codeISO3>
+<codeISO2>KZ</codeISO2>
+<nameOfficialEN>the Republic of Kazakhstan</nameOfficialEN>
+<nameShortEN>Kazakhstan</nameShortEN>
+<nameListEN>Kazakhstan</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Singapore">
+<codeISO3>SGP</codeISO3>
+<codeISO2>SG</codeISO2>
+<nameOfficialEN>the Republic of Singapore</nameOfficialEN>
+<nameShortEN>Singapore</nameShortEN>
+<nameListEN>Singapore</nameListEN>
+<FAO_MEMBERS></FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Sudan_the">
+<codeISO3>SDN</codeISO3>
+<codeISO2>SD</codeISO2>
+<nameOfficialEN>the Republic of the Sudan</nameOfficialEN>
+<nameShortEN>the Sudan</nameShortEN>
+<nameListEN>Sudan</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Tajikistan">
+<codeISO3>TJK</codeISO3>
+<codeISO2>TJ</codeISO2>
+<nameOfficialEN>the Republic of Tajikistan</nameOfficialEN>
+<nameShortEN>Tajikistan</nameShortEN>
+<nameListEN>Tajikistan</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Bhutan">
+<codeISO3>BTN</codeISO3>
+<codeISO2>BT</codeISO2>
+<nameOfficialEN>the Kingdom of Bhutan</nameOfficialEN>
+<nameShortEN>Bhutan</nameShortEN>
+<nameListEN>Bhutan</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Switzerland">
+<codeISO3>CHE</codeISO3>
+<codeISO2>CH</codeISO2>
+<nameOfficialEN>the Swiss Confederation</nameOfficialEN>
+<nameShortEN>Switzerland</nameShortEN>
+<nameListEN>Switzerland</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Saint_Vincent_and_the_Grenadines">
+<codeISO3>VCT</codeISO3>
+<codeISO2>VC</codeISO2>
+<nameOfficialEN>Saint Vincent and the Grenadines</nameOfficialEN>
+<nameShortEN>Saint Vincent and the Grenadines</nameShortEN>
+<nameListEN>Saint Vincent and the Grenadines</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Myanmar">
+<codeISO3>MMR</codeISO3>
+<codeISO2>MM</codeISO2>
+<nameOfficialEN>the Republic of the Union of Myanmar  </nameOfficialEN>
+<nameShortEN>Myanmar</nameShortEN>
+<nameListEN>Myanmar</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Indonesia">
+<codeISO3>IDN</codeISO3>
+<codeISO2>ID</codeISO2>
+<nameOfficialEN>the Republic of Indonesia</nameOfficialEN>
+<nameShortEN>Indonesia</nameShortEN>
+<nameListEN>Indonesia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Panama">
+<codeISO3>PAN</codeISO3>
+<codeISO2>PA</codeISO2>
+<nameOfficialEN>the Republic of Panama</nameOfficialEN>
+<nameShortEN>Panama</nameShortEN>
+<nameListEN>Panama</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Dominican_Republic_the">
+<codeISO3>DOM</codeISO3>
+<codeISO2>DO</codeISO2>
+<nameOfficialEN>the Dominican Republic</nameOfficialEN>
+<nameShortEN>Dominican Republic (the)</nameShortEN>
+<nameListEN>Dominican Republic</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Turkey">
+<codeISO3>TUR</codeISO3>
+<codeISO2>TR</codeISO2>
+<nameOfficialEN>the Republic of Turkey</nameOfficialEN>
+<nameShortEN>Turkey</nameShortEN>
+<nameListEN>Turkey</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Papua_New_Guinea">
+<codeISO3>PNG</codeISO3>
+<codeISO2>PG</codeISO2>
+<nameOfficialEN>Papua New Guinea</nameOfficialEN>
+<nameShortEN>Papua New Guinea</nameShortEN>
+<nameListEN>Papua New Guinea</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Brunei_Darussalam">
+<codeISO3>BRN</codeISO3>
+<codeISO2>BN</codeISO2>
+<nameOfficialEN>Brunei Darussalam</nameOfficialEN>
+<nameShortEN>Brunei Darussalam</nameShortEN>
+<nameListEN>Brunei Darussalam</nameListEN>
+<FAO_MEMBERS></FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Eritrea">
+<codeISO3>ERI</codeISO3>
+<codeISO2>ER</codeISO2>
+<nameOfficialEN>Eritrea</nameOfficialEN>
+<nameShortEN>Eritrea</nameShortEN>
+<nameListEN>Eritrea</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Dominica">
+<codeISO3>DMA</codeISO3>
+<codeISO2>DM</codeISO2>
+<nameOfficialEN>the Commonwealth of Dominica</nameOfficialEN>
+<nameShortEN>Dominica</nameShortEN>
+<nameListEN>Dominica</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Turkmenistan">
+<codeISO3>TKM</codeISO3>
+<codeISO2>TM</codeISO2>
+<nameOfficialEN>Turkmenistan</nameOfficialEN>
+<nameShortEN>Turkmenistan</nameShortEN>
+<nameListEN>Turkmenistan</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Democratic_Republic_of_the_Congo">
+<codeISO3>COD</codeISO3>
+<codeISO2>CD</codeISO2>
+<nameOfficialEN>the Democratic Republic of the Congo</nameOfficialEN>
+<nameShortEN>the Democratic Republic of the Congo</nameShortEN>
+<nameListEN>Democratic Republic of the Congo</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Democratic_People_s_Republic_of_Korea_the">
+<codeISO3>PRK</codeISO3>
+<codeISO2>KP</codeISO2>
+<nameOfficialEN>the Democratic People's Republic of Korea</nameOfficialEN>
+<nameShortEN>the Democratic People's Republic of Korea</nameShortEN>
+<nameListEN>Democratic People's Republic of Korea</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Solomon_Islands">
+<codeISO3>SLB</codeISO3>
+<codeISO2>SB</codeISO2>
+<nameOfficialEN>Solomon Islands</nameOfficialEN>
+<nameShortEN>Solomon Islands</nameShortEN>
+<nameListEN>Solomon Islands</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Morocco">
+<codeISO3>MAR</codeISO3>
+<codeISO2>MA</codeISO2>
+<nameOfficialEN>the Kingdom of Morocco</nameOfficialEN>
+<nameShortEN>Morocco</nameShortEN>
+<nameListEN>Morocco</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Uganda">
+<codeISO3>UGA</codeISO3>
+<codeISO2>UG</codeISO2>
+<nameOfficialEN>the Republic of Uganda</nameOfficialEN>
+<nameShortEN>Uganda</nameShortEN>
+<nameListEN>Uganda</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Faroe_Islands">
+<codeISO3>FRO</codeISO3>
+<codeISO2>FO</codeISO2>
+<nameOfficialEN>Faroe Islands</nameOfficialEN>
+<nameShortEN>Faroe Islands</nameShortEN>
+<nameListEN>Faroe Islands</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#South_Africa">
+<codeISO3>ZAF</codeISO3>
+<codeISO2>ZA</codeISO2>
+<nameOfficialEN>the Republic of South Africa</nameOfficialEN>
+<nameShortEN>South Africa</nameShortEN>
+<nameListEN>South Africa</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Afghanistan">
+<codeISO3>AFG</codeISO3>
+<codeISO2>AF</codeISO2>
+<nameOfficialEN>The Islamic Republic of Afghanistan</nameOfficialEN>
+<nameShortEN>Afghanistan</nameShortEN>
+<nameListEN>Afghanistan</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Armenia">
+<codeISO3>ARM</codeISO3>
+<codeISO2>AM</codeISO2>
+<nameOfficialEN>the Republic of Armenia</nameOfficialEN>
+<nameShortEN>Armenia</nameShortEN>
+<nameListEN>Armenia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Rwanda">
+<codeISO3>RWA</codeISO3>
+<codeISO2>RW</codeISO2>
+<nameOfficialEN>the Republic of Rwanda</nameOfficialEN>
+<nameShortEN>Rwanda</nameShortEN>
+<nameListEN>Rwanda</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Djibouti">
+<codeISO3>DJI</codeISO3>
+<codeISO2>DJ</codeISO2>
+<nameOfficialEN>the Republic of Djibouti</nameOfficialEN>
+<nameShortEN>Djibouti</nameShortEN>
+<nameListEN>Djibouti</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#San_Marino">
+<codeISO3>SMR</codeISO3>
+<codeISO2>SM</codeISO2>
+<nameOfficialEN>the Republic of San Marino</nameOfficialEN>
+<nameShortEN>San Marino</nameShortEN>
+<nameListEN>San Marino</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Sao_Tome_and_Principe">
+<codeISO3>STP</codeISO3>
+<codeISO2>ST</codeISO2>
+<nameOfficialEN>the Democratic Republic of Sao Tome and Principe</nameOfficialEN>
+<nameShortEN>Sao Tome and Principe</nameShortEN>
+<nameListEN>Sao Tome and Principe</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Luxembourg">
+<codeISO3>LUX</codeISO3>
+<codeISO2>LU</codeISO2>
+<nameOfficialEN>the Grand Duchy of Luxembourg</nameOfficialEN>
+<nameShortEN>Luxembourg</nameShortEN>
+<nameListEN>Luxembourg</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Nauru">
+<codeISO3>NRU</codeISO3>
+<codeISO2>NR</codeISO2>
+<nameOfficialEN>the Republic of Nauru</nameOfficialEN>
+<nameShortEN>Nauru</nameShortEN>
+<nameListEN>Nauru</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Algeria">
+<codeISO3>DZA</codeISO3>
+<codeISO2>DZ</codeISO2>
+<nameOfficialEN>the People's Democratic Republic of Algeria</nameOfficialEN>
+<nameShortEN>Algeria</nameShortEN>
+<nameListEN>Algeria</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Nicaragua">
+<codeISO3>NIC</codeISO3>
+<codeISO2>NI</codeISO2>
+<nameOfficialEN>the Republic of Nicaragua</nameOfficialEN>
+<nameShortEN>Nicaragua</nameShortEN>
+<nameListEN>Nicaragua</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Marshall_Islands__the">
+<codeISO3>MHL</codeISO3>
+<codeISO2>MH</codeISO2>
+<nameOfficialEN>the Republic of the Marshall Islands</nameOfficialEN>
+<nameShortEN>the Marshall Islands</nameShortEN>
+<nameListEN>Marshall Islands</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Oman">
+<codeISO3>OMN</codeISO3>
+<codeISO2>OM</codeISO2>
+<nameOfficialEN>the Sultanate of Oman</nameOfficialEN>
+<nameShortEN>Oman</nameShortEN>
+<nameListEN>Oman</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Chad">
+<codeISO3>TCD</codeISO3>
+<codeISO2>TD</codeISO2>
+<nameOfficialEN>the Republic of Chad</nameOfficialEN>
+<nameShortEN>Chad</nameShortEN>
+<nameListEN>Chad</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Italy">
+<codeISO3>ITA</codeISO3>
+<codeISO2>IT</codeISO2>
+<nameOfficialEN>the Republic of Italy</nameOfficialEN>
+<nameShortEN>Italy</nameShortEN>
+<nameListEN>Italy</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Tunisia">
+<codeISO3>TUN</codeISO3>
+<codeISO2>TN</codeISO2>
+<nameOfficialEN>the Republic of Tunisia</nameOfficialEN>
+<nameShortEN>Tunisia</nameShortEN>
+<nameListEN>Tunisia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Gambia__the">
+<codeISO3>GMB</codeISO3>
+<codeISO2>GM</codeISO2>
+<nameOfficialEN>the Republic of the Gambia</nameOfficialEN>
+<nameShortEN>the Gambia</nameShortEN>
+<nameListEN>Gambia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Serbia">
+<codeISO3>SRB</codeISO3>
+<codeISO2>RS</codeISO2>
+<nameOfficialEN>the Republic of Serbia</nameOfficialEN>
+<nameShortEN>Serbia</nameShortEN>
+<nameListEN>Serbia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#New_Zealand">
+<codeISO3>NZL</codeISO3>
+<codeISO2>NZ</codeISO2>
+<nameOfficialEN>New Zealand</nameOfficialEN>
+<nameShortEN>New Zealand</nameShortEN>
+<nameListEN>New Zealand</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Russian_Federation__the">
+<codeISO3>RUS</codeISO3>
+<codeISO2>RU</codeISO2>
+<nameOfficialEN>the Russian Federation</nameOfficialEN>
+<nameShortEN>the Russian Federation</nameShortEN>
+<nameListEN>Russian Federation</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Tonga">
+<codeISO3>TON</codeISO3>
+<codeISO2>TO</codeISO2>
+<nameOfficialEN>the Kingdom of Tonga</nameOfficialEN>
+<nameShortEN>Tonga</nameShortEN>
+<nameListEN>Tonga</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Uruguay">
+<codeISO3>URY</codeISO3>
+<codeISO2>UY</codeISO2>
+<nameOfficialEN>the Eastern Republic of Uruguay</nameOfficialEN>
+<nameShortEN>Uruguay</nameShortEN>
+<nameListEN>Uruguay</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Montenegro">
+<codeISO3>MNE</codeISO3>
+<codeISO2>ME</codeISO2>
+<nameOfficialEN>Montenegro</nameOfficialEN>
+<nameShortEN>Montenegro</nameShortEN>
+<nameListEN>Montenegro</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Sierra_Leone">
+<codeISO3>SLE</codeISO3>
+<codeISO2>SL</codeISO2>
+<nameOfficialEN>the Republic of Sierra Leone</nameOfficialEN>
+<nameShortEN>Sierra Leone</nameShortEN>
+<nameListEN>Sierra Leone</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Republic_of_Moldova">
+<codeISO3>MDA</codeISO3>
+<codeISO2>MD</codeISO2>
+<nameOfficialEN>the Republic of Moldova</nameOfficialEN>
+<nameShortEN>Republic of Moldova</nameShortEN>
+<nameListEN>Republic of Moldova</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Georgia">
+<codeISO3>GEO</codeISO3>
+<codeISO2>GE</codeISO2>
+<nameOfficialEN>Georgia</nameOfficialEN>
+<nameShortEN>Georgia</nameShortEN>
+<nameListEN>Georgia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Micronesia__Fed_States_of_">
+<codeISO3>FSM</codeISO3>
+<codeISO2>FM</codeISO2>
+<nameOfficialEN>the Federated States of Micronesia</nameOfficialEN>
+<nameShortEN>Micronesia (Federated States of)</nameShortEN>
+<nameListEN>Micronesia (Federated States of)</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Guyana">
+<codeISO3>GUY</codeISO3>
+<codeISO2>GY</codeISO2>
+<nameOfficialEN>the Republic of Guyana</nameOfficialEN>
+<nameShortEN>Guyana</nameShortEN>
+<nameListEN>Guyana</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#United_Arab_Emirates__the">
+<codeISO3>ARE</codeISO3>
+<codeISO2>AE</codeISO2>
+<nameOfficialEN>the United Arab Emirates</nameOfficialEN>
+<nameShortEN>the United Arab Emirates</nameShortEN>
+<nameListEN>United Arab Emirates</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Israel">
+<codeISO3>ISR</codeISO3>
+<codeISO2>IL</codeISO2>
+<nameOfficialEN>the State of Israel</nameOfficialEN>
+<nameShortEN>Israel</nameShortEN>
+<nameListEN>Israel</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Guinea">
+<codeISO3>GIN</codeISO3>
+<codeISO2>GN</codeISO2>
+<nameOfficialEN>the Republic of Guinea</nameOfficialEN>
+<nameShortEN>Guinea</nameShortEN>
+<nameListEN>Guinea</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Brazil">
+<codeISO3>BRA</codeISO3>
+<codeISO2>BR</codeISO2>
+<nameOfficialEN>the Federative Republic of Brazil</nameOfficialEN>
+<nameShortEN>Brazil</nameShortEN>
+<nameListEN>Brazil</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Ireland">
+<codeISO3>IRL</codeISO3>
+<codeISO2>IE</codeISO2>
+<nameOfficialEN>Ireland</nameOfficialEN>
+<nameShortEN>Ireland</nameShortEN>
+<nameListEN>Ireland</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Syrian_Arab_Republic_the">
+<codeISO3>SYR</codeISO3>
+<codeISO2>SY</codeISO2>
+<nameOfficialEN>the Syrian Arab Republic</nameOfficialEN>
+<nameShortEN>the Syrian Arab Republic</nameShortEN>
+<nameListEN>Syrian Arab Republic</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Hungary">
+<codeISO3>HUN</codeISO3>
+<codeISO2>HU</codeISO2>
+<nameOfficialEN>Hungary  </nameOfficialEN>
+<nameShortEN>Hungary</nameShortEN>
+<nameListEN>Hungary</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#United_Kingdom_of_Great_Britain_and_Northern_Ireland__the">
+<codeISO3>GBR</codeISO3>
+<codeISO2>GB</codeISO2>
+<nameOfficialEN>the United Kingdom of Great Britain and Northern Ireland</nameOfficialEN>
+<nameShortEN>the United Kingdom of Great Britain and Northern Ireland</nameShortEN>
+<nameListEN>United Kingdom</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Colombia">
+<codeISO3>COL</codeISO3>
+<codeISO2>CO</codeISO2>
+<nameOfficialEN>the Republic of Colombia</nameOfficialEN>
+<nameShortEN>Colombia</nameShortEN>
+<nameListEN>Colombia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Haiti">
+<codeISO3>HTI</codeISO3>
+<codeISO2>HT</codeISO2>
+<nameOfficialEN>the Republic of Haiti</nameOfficialEN>
+<nameShortEN>Haiti</nameShortEN>
+<nameListEN>Haiti</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Latvia">
+<codeISO3>LVA</codeISO3>
+<codeISO2>LV</codeISO2>
+<nameOfficialEN>the Republic of Latvia</nameOfficialEN>
+<nameShortEN>Latvia</nameShortEN>
+<nameListEN>Latvia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Greece">
+<codeISO3>GRC</codeISO3>
+<codeISO2>GR</codeISO2>
+<nameOfficialEN>the Hellenic Republic</nameOfficialEN>
+<nameShortEN>Greece</nameShortEN>
+<nameListEN>Greece</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Peru">
+<codeISO3>PER</codeISO3>
+<codeISO2>PE</codeISO2>
+<nameOfficialEN>the Republic of Peru</nameOfficialEN>
+<nameShortEN>Peru</nameShortEN>
+<nameListEN>Peru</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Botswana">
+<codeISO3>BWA</codeISO3>
+<codeISO2>BW</codeISO2>
+<nameOfficialEN>the Republic of Botswana</nameOfficialEN>
+<nameShortEN>Botswana</nameShortEN>
+<nameListEN>Botswana</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Fiji">
+<codeISO3>FJI</codeISO3>
+<codeISO2>FJ</codeISO2>
+<nameOfficialEN>the Republic of Fiji  </nameOfficialEN>
+<nameShortEN>Fiji</nameShortEN>
+<nameListEN>Fiji</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Viet_Nam">
+<codeISO3>VNM</codeISO3>
+<codeISO2>VN</codeISO2>
+<nameOfficialEN>the Socialist Republic of Viet Nam</nameOfficialEN>
+<nameShortEN>Viet Nam</nameShortEN>
+<nameListEN>Viet Nam</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Paraguay">
+<codeISO3>PRY</codeISO3>
+<codeISO2>PY</codeISO2>
+<nameOfficialEN>the Republic of Paraguay</nameOfficialEN>
+<nameShortEN>Paraguay</nameShortEN>
+<nameListEN>Paraguay</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Grenada">
+<codeISO3>GRD</codeISO3>
+<codeISO2>GD</codeISO2>
+<nameOfficialEN>Grenada</nameOfficialEN>
+<nameShortEN>Grenada</nameShortEN>
+<nameListEN>Grenada</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Bulgaria">
+<codeISO3>BGR</codeISO3>
+<codeISO2>BG</codeISO2>
+<nameOfficialEN>the Republic of Bulgaria</nameOfficialEN>
+<nameShortEN>Bulgaria</nameShortEN>
+<nameListEN>Bulgaria</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Norway">
+<codeISO3>NOR</codeISO3>
+<codeISO2>NO</codeISO2>
+<nameOfficialEN>the Kingdom of Norway</nameOfficialEN>
+<nameShortEN>Norway</nameShortEN>
+<nameListEN>Norway</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Central_African_Republic_the">
+<codeISO3>CAF</codeISO3>
+<codeISO2>CF</codeISO2>
+<nameOfficialEN>the Central African Republic</nameOfficialEN>
+<nameShortEN>the Central African Republic</nameShortEN>
+<nameListEN>Central African Republic</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Ecuador">
+<codeISO3>ECU</codeISO3>
+<codeISO2>EC</codeISO2>
+<nameOfficialEN>the Republic of Ecuador</nameOfficialEN>
+<nameShortEN>Ecuador</nameShortEN>
+<nameListEN>Ecuador</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Venezuela">
+<codeISO3>VEN</codeISO3>
+<codeISO2>VE</codeISO2>
+<nameOfficialEN>the Bolivarian Republic of Venezuela</nameOfficialEN>
+<nameShortEN>Venezuela (Bolivarian Republic of)</nameShortEN>
+<nameListEN>Venezuela (Bolivarian Republic of)</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#France">
+<codeISO3>FRA</codeISO3>
+<codeISO2>FR</codeISO2>
+<nameOfficialEN>the French Republic</nameOfficialEN>
+<nameShortEN>France</nameShortEN>
+<nameListEN>France</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Libya">
+<codeISO3>LBY</codeISO3>
+<codeISO2>LY</codeISO2>
+<nameOfficialEN>Libya</nameOfficialEN>
+<nameShortEN>Libya</nameShortEN>
+<nameListEN>Libya</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Nigeria">
+<codeISO3>NGA</codeISO3>
+<codeISO2>NG</codeISO2>
+<nameOfficialEN>the Federal Republic of Nigeria</nameOfficialEN>
+<nameShortEN>Nigeria</nameShortEN>
+<nameListEN>Nigeria</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Mexico">
+<codeISO3>MEX</codeISO3>
+<codeISO2>MX</codeISO2>
+<nameOfficialEN>the United Mexican States</nameOfficialEN>
+<nameShortEN>Mexico</nameShortEN>
+<nameListEN>Mexico</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Congo_the">
+<codeISO3>COG</codeISO3>
+<codeISO2>CG</codeISO2>
+<nameOfficialEN>the Republic of the Congo</nameOfficialEN>
+<nameShortEN>the Congo</nameShortEN>
+<nameListEN>Congo</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Niue">
+<codeISO3>NIU</codeISO3>
+<codeISO2>NU</codeISO2>
+<nameOfficialEN>the Republic of Niue</nameOfficialEN>
+<nameShortEN>Niue</nameShortEN>
+<nameListEN>Niue</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Comoros_the">
+<codeISO3>COM</codeISO3>
+<codeISO2>KM</codeISO2>
+<nameOfficialEN>the Union of the Comoros</nameOfficialEN>
+<nameShortEN>the Comoros</nameShortEN>
+<nameListEN>Comoros</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Tokelau">
+<codeISO3>TKL</codeISO3>
+<codeISO2>TK</codeISO2>
+<nameOfficialEN>Tokelau</nameOfficialEN>
+<nameShortEN>Tokelau</nameShortEN>
+<nameListEN>Tokelau</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Bosnia_and_Herzegovina">
+<codeISO3>BIH</codeISO3>
+<codeISO2>BA</codeISO2>
+<nameOfficialEN>Bosnia and Herzegovina</nameOfficialEN>
+<nameShortEN>Bosnia and Herzegovina</nameShortEN>
+<nameListEN>Bosnia and Herzegovina</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Togo">
+<codeISO3>TGO</codeISO3>
+<codeISO2>TG</codeISO2>
+<nameOfficialEN>the Togolese Republic</nameOfficialEN>
+<nameShortEN>Togo</nameShortEN>
+<nameListEN>Togo</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Barbados">
+<codeISO3>BRB</codeISO3>
+<codeISO2>BB</codeISO2>
+<nameOfficialEN>Barbados</nameOfficialEN>
+<nameShortEN>Barbados</nameShortEN>
+<nameListEN>Barbados</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Zambia">
+<codeISO3>ZMB</codeISO3>
+<codeISO2>ZM</codeISO2>
+<nameOfficialEN>the Republic of Zambia</nameOfficialEN>
+<nameShortEN>Zambia</nameShortEN>
+<nameListEN>Zambia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Japan">
+<codeISO3>JPN</codeISO3>
+<codeISO2>JP</codeISO2>
+<nameOfficialEN>Japan</nameOfficialEN>
+<nameShortEN>Japan</nameShortEN>
+<nameListEN>Japan</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Kuwait">
+<codeISO3>KWT</codeISO3>
+<codeISO2>KW</codeISO2>
+<nameOfficialEN>the State of Kuwait</nameOfficialEN>
+<nameShortEN>Kuwait</nameShortEN>
+<nameListEN>Kuwait</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Bahrain">
+<codeISO3>BHR</codeISO3>
+<codeISO2>BH</codeISO2>
+<nameOfficialEN>the Kingdom of Bahrain</nameOfficialEN>
+<nameShortEN>Bahrain</nameShortEN>
+<nameListEN>Bahrain</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Holy_See">
+<codeISO3>VAT</codeISO3>
+<codeISO2>VA</codeISO2>
+<nameOfficialEN>Holy See</nameOfficialEN>
+<nameShortEN>Holy See</nameShortEN>
+<nameListEN>Holy See</nameListEN>
+<FAO_MEMBERS></FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Seychelles">
+<codeISO3>SYC</codeISO3>
+<codeISO2>SC</codeISO2>
+<nameOfficialEN>the Republic of Seychelles</nameOfficialEN>
+<nameShortEN>Seychelles</nameShortEN>
+<nameListEN>Seychelles</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Cameroon">
+<codeISO3>CMR</codeISO3>
+<codeISO2>CM</codeISO2>
+<nameOfficialEN>the Republic of Cameroon</nameOfficialEN>
+<nameShortEN>Cameroon</nameShortEN>
+<nameListEN>Cameroon</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#India">
+<codeISO3>IND</codeISO3>
+<codeISO2>IN</codeISO2>
+<nameOfficialEN>the Republic of India</nameOfficialEN>
+<nameShortEN>India</nameShortEN>
+<nameListEN>India</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Zimbabwe">
+<codeISO3>ZWE</codeISO3>
+<codeISO2>ZW</codeISO2>
+<nameOfficialEN>the Republic of Zimbabwe</nameOfficialEN>
+<nameShortEN>Zimbabwe</nameShortEN>
+<nameListEN>Zimbabwe</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Bangladesh">
+<codeISO3>BGD</codeISO3>
+<codeISO2>BD</codeISO2>
+<nameOfficialEN>the People's Republic of Bangladesh</nameOfficialEN>
+<nameShortEN>Bangladesh</nameShortEN>
+<nameListEN>Bangladesh</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Jamaica">
+<codeISO3>JAM</codeISO3>
+<codeISO2>JM</codeISO2>
+<nameOfficialEN>Jamaica</nameOfficialEN>
+<nameShortEN>Jamaica</nameShortEN>
+<nameListEN>Jamaica</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Croatia">
+<codeISO3>HRV</codeISO3>
+<codeISO2>HR</codeISO2>
+<nameOfficialEN>the Republic of Croatia</nameOfficialEN>
+<nameShortEN>Croatia</nameShortEN>
+<nameListEN>Croatia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Yemen">
+<codeISO3>YEM</codeISO3>
+<codeISO2>YE</codeISO2>
+<nameOfficialEN>the Republic of Yemen</nameOfficialEN>
+<nameShortEN>Yemen</nameShortEN>
+<nameListEN>Yemen</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Slovakia">
+<codeISO3>SVK</codeISO3>
+<codeISO2>SK</codeISO2>
+<nameOfficialEN>the Slovak Republic</nameOfficialEN>
+<nameShortEN>Slovakia</nameShortEN>
+<nameListEN>Slovakia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Germany">
+<codeISO3>DEU</codeISO3>
+<codeISO2>DE</codeISO2>
+<nameOfficialEN>the Federal Republic of Germany</nameOfficialEN>
+<nameShortEN>Germany</nameShortEN>
+<nameListEN>Germany</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Vanuatu">
+<codeISO3>VUT</codeISO3>
+<codeISO2>VU</codeISO2>
+<nameOfficialEN>the Republic of Vanuatu</nameOfficialEN>
+<nameShortEN>Vanuatu</nameShortEN>
+<nameListEN>Vanuatu</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+<self_governing id="http://aims.fao.org/aos/geopolitical.owl#Saudi_Arabia">
+<codeISO3>SAU</codeISO3>
+<codeISO2>SA</codeISO2>
+<nameOfficialEN>the Kingdom of Saudi Arabia</nameOfficialEN>
+<nameShortEN>Saudi Arabia</nameShortEN>
+<nameListEN>Saudi Arabia</nameListEN>
+<FAO_MEMBERS>FAO MEMBER NATION</FAO_MEMBERS></self_governing>
+</Data>
