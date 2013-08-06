@@ -1,5 +1,8 @@
 package com.tarunbk.example.jaxrs.inventory.model.vendor;
 
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
 public class Vendor {
 
     private String id;
