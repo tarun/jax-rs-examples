@@ -1,4 +1,4 @@
-package com.tarunbk.example.jaxrs.inventory.model;
+package com.tarunbk.example.jaxrs.inventory.model.vendor;
 
 public class Vendor {
 
