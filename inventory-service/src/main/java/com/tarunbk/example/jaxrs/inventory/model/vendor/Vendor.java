@@ -8,6 +8,16 @@ public class Vendor {
     private String id;
     private String name;
 
+    public Vendor() {
+        super();
+    }
+
+    public Vendor(String id, String name) {
+        super();
+        this.id = id;
+        this.name = name;
+    }
+
     public String getId() {
         return id;
     }
